@@ -1,0 +1,15 @@
+version: "0.1.0" # Schema Version
+
+# General Information
+name: "Shambhala Music Festival"
+address: "Salmo River Ranch, 7790 Hwy 3, Salmo, BC, V0G 1Z0, Canada"
+timeZone: "America/Denver"
+  
+# Images
+imageURL: "http://example.com/event-image.jpg"
+siteMapImageURL: "http://example.com/site-map.jpg"
+
+# Colors
+colorScheme:
+  primaryColor: "#FF5733"
+  workshopsColor: "#C70039"

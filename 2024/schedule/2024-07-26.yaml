@@ -1,0 +1,278 @@
+Ampitheater:  # Please specify the stage name
+  - time: "5:15 PM"
+    artist: "Kurei"
+
+  - time: "6:30 PM"
+    artist: "Secret Recipe"
+
+  - time: "7:30 PM"
+    artist: "Hypho"
+
+  - time: "8:30 PM"
+    artist: "DJ Co.kr"
+
+  - time: "9:30 PM"
+    artist: "Chef Boyarbeatz"
+
+  - time: "10:30 PM"
+    artist: "Flava D"
+
+  - time: "12:00 AM"
+    artist: "Sammy Virji"
+
+  - time: "1:30 AM"
+    artist: "Gentlemens Club"
+
+  - time: "3:00 AM"
+    artist: "Taiki Nulight"
+    endTime: "4:00 AM"
+
+Fractal Forest:
+  - time: "4:00 PM"
+    artist: "Freddy J"
+
+  - time: "5:00 PM"
+    artist: "Underdog"
+
+  - time: "6:00 PM"
+    artist: "DJ Hannah"
+
+  - time: "7:00 PM"
+    artist: "Joanna Magik"
+
+  - time: "8:00 PM"
+    artist: "Maddy O'Neal"
+
+  - time: "9:00 PM"
+    artist: "LÜN"
+
+  - time: "10:00 PM"
+    title: "Blu Detiger (DJ Set)"
+    artist: "Blu Detiger"
+
+  - time: "11:00 PM"
+    title: "Chromeo (DJ Set)"
+    artist: "Chromeo"
+
+  - time: "12:00 AM"
+    artist: "The Funk Hunters"
+
+  - time: "1:00 AM"
+    artist: "Stickybuds"
+
+  - time: "2:00 AM"
+    artist: "Daily Bread"
+
+  - time: "3:00 AM"
+    artist: "Rumpus"
+
+  - time: "4:00 AM"
+    artist: "Burchill"
+
+  - time: "5:00 AM"
+    endTime: "6:30 AM"
+    artist: "Joseph Martin"
+
+Grove:
+  - time: "1:00 PM"
+    title: "Grand Opening"
+
+  - time: "1:30 PM"
+    artist: "Lazy Syrup Orchestra"
+
+  - time: "3:00 PM"
+    artist: "Civillian"
+
+  - time: "4:00 PM"
+    artist: "Mews"
+
+  - time: "5:00 PM"
+    artist: "Handsome Tiger"
+
+  - time: "6:00 PM"
+    artist: "Sundog"
+
+  - time: "7:15 PM"
+    artist: "Metafloor"
+
+  - time: "8:30 PM"
+    artist: "Nina"
+
+  - time: "9:30 PM"
+    artist: "Atyya"
+
+  - time: "10:30 PM"
+    artist: "Acromada"
+
+  - time: "10:45 PM"
+    artist: "Sicaria"
+
+  - time: "12:00 AM"
+    artist: "Nia Archives"
+
+  - time: "1:00 AM"
+    artist: "DBridge"
+
+  - time: "2:30 AM"
+    artist: "Synkro"
+
+  - time: "4:00 AM"
+    artist: "The Librarian"
+
+  - time: "5:45 AM"
+    endTime: "6:30 AM"
+    artist: "Goopsteppa"
+
+Living Room:
+  - time: "12:00 PM"
+    title: "Yoga w/ Celeste"
+
+  - time: "1:00 PM"
+    artist: "Luxuryus"
+
+  - time: "2:00 PM"
+    artist: "Dubconscious"
+
+  - time: "3:00 PM"
+    artist: "Danni G"
+
+  - time: "4:30 PM"
+    artist: "Edit"
+
+  - time: "5:30 PM"
+    artist: "Ooah"
+
+  - time: "6:30 PM"
+    artist: "El Papachango"
+
+  - time: "8:00 PM"
+    artist: "Vhoor"
+
+  - time: "9:30 PM"
+    artist: "Honeydrip"
+
+  - time: "10:30 PM"
+    artist: "Amp Live"
+
+  - time: "11:30 PM"
+    artist: "Onhell"
+
+  - time: "12:30 AM"
+    artist: "The Glitch Mob"
+
+  - time: "1:30 AM"
+    artist: "Mary Droppinz"
+
+  - time: "3:00 AM"
+    endTime: "5:00 AM"
+    artist: "Antidote Collective"
+
+Pagoda:
+  - time: "4:00 PM"
+    artist: "Logan Hart"
+
+  - time: "5:00 PM"
+    artist: "Birdhaus"
+
+  - time: "6:00 PM"
+    artist: "Double Trouble"
+
+  - time: "7:15 PM"
+    artist: "Case of the Mondays"
+
+  - time: "8:15 PM"
+    artist: "Team Ezy"
+
+  - time: "9:30 PM"
+    title: "Pagoda Grand Opening"
+
+  - time: "9:45 PM"
+    artist: "Kyle Watson"
+
+  - time: "11:00 PM"
+    artist: "Justin Martin"
+
+  - time: "12:00 AM"
+    title: "Justin Martin B2B Chris Lorenzo"
+    artists:
+      - "Justin Martin"
+      - "Chris Lorenzo"
+    
+  - time: "12:30 AM"
+    artist: "Chris Lorenzo"
+
+  - time: "1:30 AM"
+    artist: "Matroda"
+
+  - time: "2:45 AM"
+    title: "Dr. Fresch B2B Destructo"
+    artists:
+      - "Dr. Fresch"
+      - "Destructo"
+
+  - time: "4:45 AM"
+    endTime: "5:30 AM"
+    artist: "Ben Fox"
+
+Village:
+  - time: "3:00 PM"
+    title: "Village Rinse Out Hosted by John Rolodex"
+
+  - time: "7:00 PM"
+    artist: "Zipper"
+
+  - time: "8:00 PM"
+    artist: "Stylust"
+
+  - time: "9:00 PM"
+    artist: "Ondamike"
+
+  - time: "10:00 PM"
+    artist: "Subvert w/ Armanni Reign"
+
+  - time: "11:00 PM"
+    artist: "Friction"
+
+  - time: "12:30 AM"
+    artist: "Excision"
+
+  - time: "2:00 AM"
+    artist: "Dion Timmer"
+
+  - time: "3:00 AM"
+    artist: "Ahee"
+
+  - time: "4:00 AM"
+    endTime: "5:00 AM"
+    artist: "Buddy & The Buffalo"
+
+Secret Garden:
+  - time: "2:00 PM"
+    artist: "Church of Central Raving"
+
+  - time: "3:30 PM"
+    title: "Fly with Me Acro Yoga"
+    artist: "John Early & Brenna Bote"
+
+  - time: "5:00 PM"
+    endTime: "6:30 PM"
+    artist: "Music, Healing, & The History of Dance Culture"
+
+  - time: "7:30 PM"
+    artist: "Baby Lemonade"
+
+  - time: "9:00 PM"
+    artist: "Lil Bones"
+
+  - time: "10:30 PM"
+    artist: "Melo.Nade"
+
+  - time: "12:00 AM"
+    artist: "Wils"
+
+  - time: "1:30 AM"
+    artist: "El Toro"
+
+  - time: "3:00 AM"
+    endTime: "4:30 AM"
+    artist: "Gabby Haze"
