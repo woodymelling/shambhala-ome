@@ -11,7 +11,7 @@
   imageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_grove.png?alt=media&token=514a6eca-079f-45cf-8ccf-1decba72b35d"
 
 - name: "Living Room"
-  color: "#77bd91"
+  color: "#7cb8af"
   imageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_living_room.png?alt=media&token=3985d60a-e4de-4c76-aa3b-86fa53eaeece"
 
 - name: "Pagoda"
@@ -19,9 +19,9 @@
   imageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_pagoda.png?alt=media&token=c33da197-c0bd-4f4d-8c79-8fd53c5b8297"
 
 - name: "Village"
-  color: "#3e71b0"
+  color: "#8379b2"
   imageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_village.png?alt=media&token=257453e1-04a1-40f5-af5f-5017a874a7f7"
 
 - name: "Secret Garden"
-  color: "#3e71b0"
+  color: "#136836"
   imageURL: "http://example.com/tranquil-meadow.jpg"
