@@ -1,5 +1,9 @@
 version: "0.1.0" # Schema Version
 
+name: "Shambhala 2024"
+startDate: 7/26/24
+endDate: 7/29/24
+imageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Flogo_small.png?alt=media&token=7766fa90-6591-4e25-92b4-2ff354cb970d"
 siteMapImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2FShambhala-Map.png?alt=media&token=01ec8e02-7e31-4ae7-a91b-ab92dbee6894"
 address: "Salmo River Ranch, 7790 Hwy 3, Salmo, BC, V0G 1Z0, Canada"
 timeZone: "America/Denver"
