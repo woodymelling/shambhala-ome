@@ -24,7 +24,7 @@ Ampitheatre:
     artist: "Tipper"
 
   - time: "2:30 AM"
-    endtime: "4:30 AM"
+    endTime: "4:30 AM"
     artist: "Flowdan"
 
 Fractal Forest:
@@ -69,7 +69,7 @@ Fractal Forest:
     artist: "Justin Hale"
 
   - time: "8:00 AM"
-    endtime: "9:00 AM"
+    endTime: "9:00 AM"
     artist: "Rich-E-Rich"
 
 Grove:
@@ -104,7 +104,7 @@ Grove:
     artist: "Jasper Tygner"
 
   - time: "5:30 AM"
-    endtime: "7:00 AM"
+    endTime: "7:00 AM"
     artist: "Frameworks"
 
 
@@ -159,7 +159,7 @@ Living Room:
     artist: "Shiny Things"
 
   - time: "7:00 AM"
-    endtime: "8:00 AM"
+    endTime: "8:00 AM"
     artist: "The Pride w/ Lion-S & Hoola"
 
 Pagoda:
@@ -269,5 +269,5 @@ Secret Garden:  # Please specify the stage name
     artist: "Rowl"
 
   - time: "3:00 AM"
-    endtime: "4:30 AM"
+    endTime: "4:30 AM"
     artist: "Okiro"

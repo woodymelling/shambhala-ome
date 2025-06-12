@@ -111,7 +111,7 @@ Grove:
     artist: "Mystic State"
 
   - time: "5:15 AM"
-    endtime: "6:30 AM"
+    endTime: "6:30 AM"
     artist: "Barisone"
 
 Living Room: 
