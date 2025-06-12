@@ -1,81 +1,83 @@
-Ampitheatre:
-  - time: "12:00 PM"
-    artist: "S2"
-    
-  - time: "1:00 PM"
-    artist: "Shrimpnose"
-    
-  - time: "2:00 PM"
-    artist: "KLL SMTH"
-    
-  - time: "3:00 PM"
-    artist: "Pigeon Hole"
-    
-  - time: "4:15 PM"
-    artist: "Mr. Jennings"
-    
-  - time: "5:30 PM"
-    artist: "Skiitour"
-    
-  - time: "7:00 PM"
-    artist: "Ahee"
-    
-  - time: "8:30 PM"
-    artist: "Chmura"
-    
-  - time: "9:30 PM"
-    artist: "Tsuruda"
-    
-  - time: "10:30 PM"
-    artist: "PAV4N & Strategy"
-    
-  - time: "11:30 PM"
-    artist: "The Caracal Project"
-    
-  - time: "12:30 AM"
-    endTime: "2:00 AM"
-    artist: "Longwalkshortdock"
+date: '2024-07-25'
+performances:
+  Ampitheatre:
+    - time: "12:00 PM"
+      artist: "S2"
+      
+    - time: "1:00 PM"
+      artist: "Shrimpnose"
+      
+    - time: "2:00 PM"
+      artist: "KLL SMTH"
+      
+    - time: "3:00 PM"
+      artist: "Pigeon Hole"
+      
+    - time: "4:15 PM"
+      artist: "Mr. Jennings"
+      
+    - time: "5:30 PM"
+      artist: "Skiitour"
+      
+    - time: "7:00 PM"
+      artist: "Ahee"
+      
+    - time: "8:30 PM"
+      artist: "Chmura"
+      
+    - time: "9:30 PM"
+      artist: "Tsuruda"
+      
+    - time: "10:30 PM"
+      artist: "PAV4N & Strategy"
+      
+    - time: "11:30 PM"
+      artist: "The Caracal Project"
+      
+    - time: "12:30 AM"
+      endTime: "2:00 AM"
+      artist: "Longwalkshortdock"
 
-Living Room:
-  - time: "12:00 PM"
-    artist: "Marty Carter"
-    
-  - time: "12:45 PM"
-    artist: "Everyman"
-    
-  - time: "1:00 PM"
-    artist: "Binks"
-    
-  - time: "2:00 PM"
-    artist: "Sistersun"
+  Living Room:
+    - time: "12:00 PM"
+      artist: "Marty Carter"
+      
+    - time: "12:45 PM"
+      artist: "Everyman"
+      
+    - time: "1:00 PM"
+      artist: "Binks"
+      
+    - time: "2:00 PM"
+      artist: "Sistersun"
 
-  - time: "3:00 PM"
-    artist: "Fort Knox Five"
-    
-  - time: "4:00 PM"
-    artist: "Ndidi Cascade & Powys HJ"
-    
-  - time: "4:30 PM"
-    artist: "Hoola"
-    
-  - time: "5:30 PM"
-    artist: "Soohan"
-    
-  - time: "7:00 PM"
-    artist: "Adham Shaikh"
-    
-  - time: "8:30 PM"
-    artist: "Meowmix"
-    
-  - time: "10:00 PM"
-    artist: "Tone Ranger"
-    
-  - time: "12:00 AM"
-    artist: "Fungineers"
-    
-  - time: "1:00 AM"
-    artist: "Prayer Handz"
-    
-  - time: "2:00 AM"
-    endTime: "2:30 AM"
-    artist: "Joaqopelli"
+    - time: "3:00 PM"
+      artist: "Fort Knox Five"
+      
+    - time: "4:00 PM"
+      artist: "Ndidi Cascade & Powys HJ"
+      
+    - time: "4:30 PM"
+      artist: "Hoola"
+      
+    - time: "5:30 PM"
+      artist: "Soohan"
+      
+    - time: "7:00 PM"
+      artist: "Adham Shaikh"
+      
+    - time: "8:30 PM"
+      artist: "Meowmix"
+      
+    - time: "10:00 PM"
+      artist: "Tone Ranger"
+      
+    - time: "12:00 AM"
+      artist: "Fungineers"
+      
+    - time: "1:00 AM"
+      artist: "Prayer Handz"
+      
+    - time: "2:00 AM"
+      endTime: "2:30 AM"
+      artist: "Joaqopelli"
