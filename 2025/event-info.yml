@@ -22,26 +22,32 @@ stages:
 - name: "Ampitheatre"
   color: 0xdf529f
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_amp.png?alt=media&token=259c79a0-0df8-4434-931a-e3b9037789a6"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed2389_smf_stage-amp-p-1600.webp"
   
 - name: "Fractal Forest"
   color: 0xbabc69
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_fractal.png?alt=media&token=fc4b8549-b689-4b90-88d6-e318d8db6e4a"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed2385_smf_stage-Fractal%20Forest.webp"
   
 - name: "Grove"
   color: 0x77bd91
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_grove.png?alt=media&token=514a6eca-079f-45cf-8ccf-1decba72b35d"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed23ff_Shambhala%20Music%20Festival%20-%20Joffrey%20Photo%20-%20Grove%20Stage.webp"
 
 - name: "Living Room"
   color: 0x7cb8af
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_living_room.png?alt=media&token=3985d60a-e4de-4c76-aa3b-86fa53eaeece"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed241c_Shambhala%20Music%20Festival%20-%20Living%20Room%20Stage%20Don%20Idio.webp"
 
 - name: "Pagoda"
   color: 0x3e71b0
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_pagoda.png?alt=media&token=c33da197-c0bd-4f4d-8c79-8fd53c5b8297"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed2421_Shambhala%2520Music%2520Festival%2520-%2520Pagoda%2520Stage%2520Don%2520Idio%2520Felix%2520Cartal-p-1600.webp"
 
 - name: "Village"
   color: 0x8379b2
   iconImageURL: "https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_village.png?alt=media&token=257453e1-04a1-40f5-af5f-5017a874a7f7"
+  imageURL: "https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed242e_Shambhala%2520Music%2520Festival%2520Village%2520Stage%2520-%2520Don%2520Idio-p-1600.webp"
 
 - name: "Secret Garden"
   color: 0x136836
