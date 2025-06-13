@@ -51,4 +51,3 @@ stages:
 
 - name: "Secret Garden"
   color: 0x136836
-  iconImageURL: "http://example.com/tranquil-meadow.jpg"
