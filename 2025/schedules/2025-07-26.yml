@@ -1,5 +1,3 @@
-date: '2025-07-26'
-performances:
 Ampitheatre:
   - time: "3:00 PM"
     artist: "Rave Runway Extravaganza Hosted by Freida Whales"
@@ -152,8 +150,8 @@ Living Room:
   - time: "11:30 PM"
     title: "Elektric Collective with Hoola"
     artists: 
-	- Elektric Collective
-	- Hoola
+      - Elektric Collective
+      - Hoola
 
   - time: "12:15 AM"
     title: "Bob Moses (Club Set)"
@@ -162,8 +160,8 @@ Living Room:
   - time: "2:00 AM"
     endTime: "4:00 AM"
     artists: 
-	- Tomahawk Bang
-	- Notorious Cree
+      - Tomahawk Bang
+      - Notorious Cree
 
 Pagoda:
   - time: "3:30 PM"
@@ -175,8 +173,8 @@ Pagoda:
   - time: "5:30 PM"
     title: "STUND B2B Broken Future"
     artists: 
-	- STUND
-	- Broken Future
+      - STUND
+      - Broken Future
 
   - time: "6:30 PM"
     artist: "Sivz"
