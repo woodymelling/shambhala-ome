@@ -131,8 +131,8 @@ Living Room:
   - time: "2:30 PM"
     title: "Hoola & We Love Lamp Showcase"
     artists:
-	- Hoola
-	- We Love Lamp
+    - "Hoola"
+    - "We Love Lamp"
 
   - time: "4:00 PM"
     artist: "Flipout"
