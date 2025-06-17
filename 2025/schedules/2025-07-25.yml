@@ -1,0 +1,258 @@
+date: '2025-07-25'
+performances:
+Ampitheatre: 
+  - time: "5:00 PM"
+    artist: "2TALL"
+
+  - time: "6:00 PM"
+    artist: "RatchaelBeats"
+
+  - time: "7:00 PM"
+    artist: "Mfinity"
+
+  - time: "8:00 PM"
+    artist: "OkayJake"
+
+  - time: "9:00 PM"
+    artist: "Supertask"
+
+  - time: "10:00 PM"
+    artist: "Resonant Language"
+
+  - time: "11:00 PM"
+    artist: "WHIPPED CREAM"
+
+  - time: "12:15 AM"
+    artist: "TroyBoi"
+
+  - time: "1:30 AM"
+    artist: "SHADES"
+
+  - time: "3:00 AM"
+    artist: "Kursa"
+    endTime: "4:00 AM"
+
+Fractal Forest:
+  - time: "4:30 PM"
+    artist: "Freddy J"
+
+  - time: "6:00 PM"
+    artist: "Underdog"
+
+  - time: "7:00 PM"
+    artist: "Burchill"
+
+  - time: "8:00 PM"
+    artist: "Mood Swing & Chevy Bass ft. Wilma"
+
+  - time: "9:00 PM"
+    artist: "K+Lab"
+
+  - time: "10:00 PM"
+    artist: "Stickybuds"
+
+  - time: "11:00 PM"
+    artist: "Opiuo"
+
+  - time: "12:00 AM"
+    title: "Big Gigantic (DJ Set)"
+    artist: "Big Gigantic"
+
+  - time: "1:00 AM"
+    artist: "The Funk Hunters"
+
+  - time: "2:00 AM"
+    artist: "Smalltown DJs"
+
+  - time: "3:00 AM"
+    artist: "No Thanks"
+
+  - time: "4:00 AM"
+    artist: "Joanna Magik"
+
+  - time: "5:00 AM"
+    endTime: "6:30 AM"
+    artist: "Joseph Martin"
+
+Grove:
+  - time: "1:00 PM"
+    title: "Opening Intention"
+
+  - time: "1:30 PM"
+    artist: "Tor x Murge"
+
+  - time: "3:00 PM"
+    artist: "JPOD"
+
+  - time: "4:15 PM"
+    artist: "Mood Change"
+
+  - time: "5:30 PM"
+    artist: "Mother Mary"
+
+  - time: "6:30 PM"
+    artist: "Skerd"
+
+  - time: "7:30 PM"
+    artist: "ASHEZ"
+
+  - time: "8:30 PM"
+    artist: "The Librarian"
+
+  - time: "9:45 PM"
+    artist: "Sacred G's"
+
+  - time: "10:00 PM"
+    artist: "Ivy Lab"
+
+  - time: "11:30 PM"
+    artist: "Mia Koden"
+
+  - time: "1:00 AM"
+    artist: "Dimond Saints"
+
+  - time: "2:30 AM"
+    artist: "Cartridge"
+
+  - time: "4:00 AM"
+    artist: "OAKK"
+
+  - time: "5:15 AM"
+    endTime: "6:30 AM"
+    artist: "Saturna"
+
+Living Room:
+  - time: "12:00 PM"
+    title: "DJ K-TEL"
+
+  - time: "1:00 PM"
+    artist: "Foxy Moron"
+
+  - time: "2:30 PM"
+    title: "Hoola & We Love Lamp Showcase"
+    artists:
+	- Hoola
+	- We Love Lamp
+
+  - time: "4:00 PM"
+    artist: "Flipout"
+
+  - time: "5:00 PM"
+    artist: "DJ KOCO AKA SHIMOKITA"
+
+  - time: "6:00 PM"
+    artist: "DJ Nu-Mark"
+
+  - time: "7:30 PM"
+    artist: "Moon Hooch"
+
+  - time: "8:30 PM"
+    artist: "DJ Heather"
+
+  - time: "10:00 PM"
+    artist: "Mark Farina"
+
+  - time: "11:30 PM"
+    artist: "DJ Minx"
+
+  - time: "1:00 AM"
+    artist: "Lovefingers"
+
+  - time: "3:00 AM"
+    endTime: "4:30 AM"
+    artist: "Fleetmax Wood"
+
+Pagoda:
+  - time: "4:00 PM"
+    artist: "Logan Hart"
+
+  - time: "5:00 PM"
+    artist: "TKO"
+
+  - time: "6:15 PM"
+    artist: "Case of the Mondays"
+
+  - time: "7:30 PM"
+    artist: "DJ SOUP"
+
+  - time: "8:45 PM"
+    artist: "N2N"
+
+  - time: "10:00 PM"
+    artist: "Eats Everything"
+
+  - time: "11:30 PM"
+    artist: "Vintage Culture"
+
+  - time: "1:00 AM"
+    artist: "Chris Lake"
+
+  - time: "2:30 AM"
+    artist: "Justin Martin"
+
+  - time: "3:45 AM"
+    endTime: "6:00 AM"
+    title: "Destructo Sermon Set"
+    artist: "Destructo"
+
+Village:
+  - time: "3:00 PM"
+    title: "Village Rinse Out Hosted by John Rolodex"
+
+  - time: "8:30 PM"
+    artist: "Stylust"
+
+  - time: "9:30 PM"
+    artist: "Armanni Reign"
+
+  - time: "10:00 PM"
+    artist: "Subvert w/ Armanni Reign"
+
+  - time: "11:00 PM"
+    artist: "RIOT"
+
+  - time: "12:30 AM"
+    artist: "Excision"
+
+  - time: "2:00 AM"
+    artist: "Bou"
+
+  - time: "3:00 AM"
+    artist: "Luude"
+
+  - time: "4:00 AM"
+    endTime: "5:30 AM"
+    artist: "Buddy & The Buffalo"
+
+Secret Garden:
+  - time: "1:30 PM"
+    artist: "Church of Central Raving"
+
+  - time: "3:00 PM"
+    title: "Fly with Me Acro Yoga"
+    artist: "John Early & Brenna Bote"
+
+  - time: "4:30 PM"
+    artist: "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
+
+  - time: "6:00 PM"
+    artist: "Music, Healing, & The History of Dance Culture"
+
+  - time: "7:30 PM"
+    artist: "Cloak and Dagger"
+
+  - time: "9:00 PM"
+    artist: "Busy Patterns"
+
+  - time: "10:30 PM"
+    artist: "mr.b"
+
+  - time: "12:00 AM"
+    artist: "Civillian"
+
+  - time: "1:30 AM"
+    artist: "pheel"
+
+  - time: "3:00 AM"
+    endTime: "4:30 AM"
+    artist: "Akiiba"

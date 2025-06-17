@@ -1,0 +1,296 @@
+date: '2025-07-27'
+performances:
+Ampitheatre:
+  - time: "4:30 PM"
+    title: "Afternoon Saloon with Marin Patenaude"
+    artist: "Marin Patenaude"
+
+  - time: "6:30 PM"
+    artist: "Soukii"
+
+  - time: "7:30 PM"
+    artist: "Luke Petruzzi"
+
+  - time: "8:30 PM"
+    artist: "Camoufly"
+
+  - time: "9:30 PM"
+    artist: "Notion"
+
+  - time: "10:45 PM"
+    artist: "Oppidan"
+
+  - time: "12:00 AM"
+    artist: "Apashe"
+
+  - time: "1:30 AM"
+    artist: "Odd Mob"
+
+  - time: "3:00 AM"
+    endTime: "4:00 AM"
+    artist: "Zero"
+
+Fractal Forest:
+  - time: "2:00 PM"
+    title: "Fractal Funk Jam Hosted by Smalltown DJs featuring DJ Jazzy Jeff"
+    artist: "Smalltown DJs"
+
+  - time: "6:00 PM"
+    artist: "DJ Jazzy Jeff"
+
+  - time: "7:00 PM"
+    title: "PINEO & LOEB ft. K-OS"
+    artists:
+	- PINEO & LOEB
+	- K-OS
+
+  - time: "8:00 PM"
+    artist: "SkiiTour"
+
+  - time: "9:00 PM"
+    artist: "The Sponges"
+
+  - time: "10:00 PM"
+    title: "SOFI TUKKER (DJ Set)"
+    artist: "SOFI TUKKER"
+
+  - time: "11:00 PM"
+    artist: "It's Murph"
+
+  - time: "12:00 AM"
+    artist: "Dombresky"
+
+  - time: "1:00 AM"
+    artist: "Malaa"
+
+  - time: "2:00 AM"
+    artist: "Ship Wrek"
+
+  - time: "3:00 AM"
+    artist: "RUMPUS"
+
+  - time: "4:00 AM"
+    artist: "Thomas Anthony"
+
+  - time: "5:00 AM"
+    artist: "Wes Please"
+
+  - time: "6:30 AM"
+    artist: "Justin Hale"
+
+  - time: "8:00 AM"
+    endTime: "9:00 AM"
+    artist: "Rich-E-Rich"
+
+Grove:
+  - time: "5:00 PM"
+    artist: "Melo.Nade"
+
+  - time: "6:00 PM"
+    artist: "Mraki"
+
+  - time: "7:00 PM"
+    artist: "Rosso"
+
+  - time: "8:00 PM"
+    artist: "Barisone"
+
+  - time: "9:30 PM"
+    artist: "Lex Amor"
+
+  - time: "10:30 PM"
+    artist: "Major League DJZ"
+
+  - time: "12:00 AM"
+    title: "Channel Tres (DJ Set)"
+    artist: "Channel Tres"
+
+  - time: "1:15 AM"
+    artist: "Justin Martin"
+
+  - time: "2:30 AM"
+    artist: "Christian Loffler"
+
+  - time: "4:00 AM"
+    artist: "Emancipator"
+
+  - time: "5:30 AM"
+    endTime: "7:00 AM"
+    artist: "parkbreezy X TF Marz"
+
+
+Living Room:
+  - time: "12:00 PM"
+    artist: "Dubconcious"
+
+  - time: "1:00 PM"
+    artist: "Illexxandra"
+
+  - time: "2:00 PM"
+    artist: "DJ Shakey"
+
+  - time: "3:00 PM"
+    artist: "CHIXY GUAP"
+
+  - time: "4:00 PM"
+    artist: "Handsome Tiger"
+
+  - time: "5:00 PM"
+    artist: "Player Dave"
+
+  - time: "6:15 PM"
+    artist: "Moontricks"
+
+  - time: "7:30 PM"
+    artist: "An-Ten-Nae"
+
+  - time: "8:30 PM"
+    artist: "Mat the Alien"
+
+  - time: "9:30 PM"
+    artist: "Honeycomb"
+
+  - time: "10:30 PM"
+    artist: "1tbsp"
+
+  - time: "11:30 PM"
+    artist: "Bianca Oblivion"
+
+  - time: "1:00 AM"
+    artist: "JUBILEE"
+
+  - time: "2:30 AM"
+    artist: "Pocket"
+
+  - time: "3:45 AM"
+    artist: "Shiny Things"
+
+  - time: "5:00 AM"
+    artist: "BOGL"
+
+  - time: "6:30 AM"
+    endTime: "9:00 AM"
+    artist: "Lion S"
+
+Pagoda:
+  - time: "3:30 PM"
+    artist: "Average Citizens"
+
+  - time: "4:30 PM"
+    artist: "Trip A with Sam Matthews"
+
+  - time: "5:30 PM"
+    artist: "Kurei"
+
+  - time: "6:30 PM"
+    artist: "Walschlager"
+
+  - time: "7:30 PM"
+    artist: "Jon Casey"
+
+  - time: "8:45 PM"
+    artist: "YDG"
+
+  - time: "10:00 PM"
+    endTime: "11:25 PM"
+    artist: "Levity"
+
+  - time: "11:30 PM"
+    artist: "Rezz"
+
+  - time: "12:45 AM"
+    artist: "Tape B"
+
+  - time: "1:45 AM"
+    artist: "Mersiv"
+
+  - time: "2:45 AM"
+    artist: "?????? ??? ?????"
+
+  - time: "3:45 AM"
+    artist: "Eater"
+
+  - time: "4:45 AM"
+    endTime: "6:00 AM"
+    artist: "Prayer Handz"
+
+Village:
+  - time: "5:00 PM"
+    artist: "DLB B2B Trevor Galore"
+
+  - time: "6:00 PM"
+    artist: "Fully Tilted"
+
+  - time: "7:00 PM"
+    artist: "Tiny Dancer"
+
+  - time: "8:00 PM"
+    artist: "Ill.Gates"
+
+  - time: "9:00 PM"
+    artist: "Super Future"
+
+  - time: "10:00 PM"
+    artist: "Koven"
+
+  - time: "11:00 PM"
+    artists: "Andy C"
+
+  - time: "12:30 AM"
+    artist: "ILLENIUM"
+
+  - time: "2:00 AM"
+    artist: "Wooli"
+
+  - time: "3:00 AM"
+    artist: "Dirt Monkey"
+
+  - time: "4:00 AM"
+    endTime: "5:30 AM"
+    artist: "Tha Funk Junkie"
+
+
+Secret Garden: 
+  - time: "10:30 AM"
+    title: "Mindful Moon Sound Healing"
+    artist: "Quinton and Kendra Armstrong"
+
+  - time: "12:00 PM"
+    title: "Ascend - Acstatic Yoga with Matthew Yausie"
+    artist: "Matthew Yausie"
+
+  - time: "1:15 PM"
+    endtime: "2:30 PM"
+    title: "Soften Your Senses - Blindfolded Yoga with Brenna Bote"
+    artist: "Brenna Bote"
+
+  - time: "3:00 PM"
+    artist: "Creek St."
+
+  - time: "4:00 PM"
+    title: "Assomatic Release Twerkshop with Troy Story 3"
+    artist: "Troy Story 3"
+
+  - time: "5:30 PM"
+    title: "Sacred Plant Medicines with Evolved Alchemy"
+    artist: "Warren Ji"
+
+  - time: "7:00 PM"
+    title: "Warrior Qi Gong with Shakya"
+    artist: "Shakya"
+
+  - time: "9:00 PM"
+    artist: "BiiSHoP"
+
+  - time: "10:30 PM"
+    artist: "Crimson"
+
+  - time: "12:00 AM"
+    artist: "Chrome Wolves"
+
+  - time: "1:30 AM"
+    artist: "PRSN"
+
+  - time: "3:00 AM"
+    endTime: "4:30 AM"
+    artist: "Leland River"
