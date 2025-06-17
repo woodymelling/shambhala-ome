@@ -1,0 +1,293 @@
+date: '2025-07-26'
+performances:
+Ampitheatre:
+  - time: "3:00 PM"
+    artist: "Rave Runway Extravaganza Hosted by Freida Whales"
+
+  - time: "4:30 PM"
+    artist: "Athena"
+
+  - time: "5:30 PM"
+    artist: "KAIPORA"
+
+  - time: "6:30 PM"
+    artist: "INNOCENT"
+
+  - time: "7:30 PM"
+    artist: "Basura"
+
+  - time: "8:30 PM"
+    artist: "Torcha"
+
+  - time: "9:30 PM"
+    artist: "Moody Good"
+
+  - time: "11:00 PM"
+    artist: "Caspa"
+
+  - time: "12:30 AM"
+    endTime: "9:00 AM"
+    artist: "Skream & Friends"
+
+Fractal Forest:
+  - time: "4:00 PM"
+    artist: "Island Haze"
+
+  - time: "5:00 PM"
+    artist: "Jgirl & Manousos"
+
+  - time: "6:00 PM"
+    artist: "Farbsie Funk"
+
+  - time: "7:00 PM"
+    artist: "Fattycakes"
+
+  - time: "8:00 PM"
+    artist: "The Gaff"
+
+  - time: "9:00 PM"
+    artist: "Joey Valence & Brae"
+
+  - time: "10:00 PM"
+    artist: "Slynk"
+
+  - time: "11:00 PM"
+    artist: "Neon Steve"
+
+  - time: "12:00 AM"
+    artist: "Wuki"
+
+  - time: "1:00 AM"
+    artist: "Krafty Kuts"
+
+  - time: "2:00 AM"
+    artist: "A.SKILLZ"
+
+  - time: "3:00 AM"
+    artist: "Fort Knox Five & Qdup"
+
+  - time: "4:00 AM"
+    artist: "Father Funk"
+
+  - time: "5:00 AM"
+    endTime: "6:30 AM"
+    artist: "Neighbour"
+
+Grove:
+  - time: "2:30 PM"
+    artist: "El Toro"
+
+  - time: "3:30 PM"
+    artist: "Lazy Syrup Orchestra"
+
+  - time: "5:00 PM"
+    artist: "PXLMTREES"
+
+  - time: "6:00 PM"
+    artist: "DEFIED"
+
+  - time: "7:00 PM"
+    artist: "Lil Bones"
+
+  - time: "8:00 PM"
+    artist: "Footprints" 
+
+  - time: "9:15 PM"
+    artist: "Acromada" 
+
+  - time: "9:30 PM"
+    artist: "1-800 GIRLS"
+
+  - time: "10:30 PM"
+    title: "Mindchatter (DJ Set)"
+    artist: "Mindchatter"
+
+  - time: "11:45 PM"
+    artist: "Mura Masa"
+
+  - time: "1:00 AM"
+    artist: "Flying Lotus"
+
+  - time: "2:30 AM"
+    artist: "Loefah"
+
+  - time: "4:00 AM"
+    artist: "Chmura"
+
+  - time: "5:15 AM"
+    endTime: "6:30 AM"
+    artist: "Alex Moon"
+
+Living Room: 
+  - time: "1:00 PM"
+    artist: "Marty Carter"
+
+  - time: "2:00 PM"
+    artist: "Sijay James"
+
+  - time: "3:00 PM"
+    artist: "Breakfluid"
+
+  - time: "4:30 PM"
+    artist: "NASAYA"
+
+  - time: "5:30 PM"
+    artist: "Fluxo"
+
+  - time: "7:15 PM"
+    artist: "EVeryman"
+
+  - time: "7:45 PM"
+    artist: "Neil Jam3s"
+
+  - time: "8:45 PM"
+    artist: "Astrocolor"
+
+  - time: "10:15 PM"
+    artist: "Hoola"
+
+  - time: "10:30 PM"
+    artist: "Glass Beams"
+
+  - time: "11:30 PM"
+    title: "Elektric Collective with Hoola"
+    artists: 
+	- Elektric Collective
+	- Hoola
+
+  - time: "12:15 AM"
+    title: "Bob Moses (Club Set)"
+    artist: "Bob Moses"
+
+  - time: "2:00 AM"
+    endTime: "4:00 AM"
+    artists: 
+	- Tomahawk Bang
+	- Notorious Cree
+
+Pagoda:
+  - time: "3:30 PM"
+    artist: "T3MPR"
+
+  - time: "4:30 PM"
+    artist: "AWood"
+
+  - time: "5:30 PM"
+    title: "STUND B2B Broken Future"
+    artists: 
+	- STUND
+	- Broken Future
+
+  - time: "6:30 PM"
+    artist: "Sivz"
+
+  - time: "7:30 PM"
+    artist: "Rohaan"
+
+  - time: "8:45 PM"
+    artist: "Duskus"
+
+  - time: "10:00 PM"
+    artist: "Ahadadream"
+
+  - time: "11:15 PM"
+    title: "Elderbrook (DJ Set)"
+    artist: "Elderbrook"
+
+  - time: "12:45 AM"
+    artist: "salute"
+
+  - time: "2:15 AM"
+    artist: "MPH"
+
+  - time: "3:45 AM"
+    artist: "Justin Jay"
+
+  - time: "5:00 AM"
+    endTime: "6:00 AM"
+    artist: "FATHER SON"
+
+Village:
+  - time: "5:30 PM"
+    title: "#WOMBTANG - Ladies DNB Takeover Hosted by Crystal Fresh"
+    artists:
+      - "Aversive"
+      - "Cyncron"
+      - "Distinct"
+      - "Dani Lion"
+      - "J.F. Killah"
+      - "Vexa"
+      - "Selectress"
+
+  - time: "8:30 PM"
+    artist: "Triple XL"
+
+  - time: "9:30 PM"
+    artist: "Phibes"
+
+  - time: "10:30 PM"
+    artist: "Kanine"
+
+  - time: "11:30 PM"
+    artist: "Delta Heavy"
+
+  - time: "12:30 AM"
+    artist: "SLANDER"
+
+  - time: "2:00 AM"
+    artist: "ALLEYCVT"
+
+  - time: "3:30 AM"
+    endTime: "6:00 AM"
+    title: "The Chillage"
+    artists:
+      - "Illexxandra"
+      - "Def3"
+      - "Oakum"
+      - "Torbjorn"
+      - "Nurries"
+      - "CHXMERAS"
+      - "DJ Yawn"
+
+Secret Garden:
+  - time: "10:30 AM"
+    artist: "Shakya"
+    title: "Restorative Qi Gong with Shakya"
+
+  - time: "12:00 PM"
+    title: "Sound Healing with the Troy Story 3"
+
+  - time: "1:30 PM"
+    title: "Rooted in Ritual Yoga with Gina Bukovnik"
+
+  - time: "3:30 PM"
+    artist: "Gina Dukovnik"
+    title: "Getting High on Your Own Supply"
+
+  - time: "4:30 PM"
+    artist: "Amanda Panda"
+    title: "Hula Hoop Playshop with Amanda Panda"
+
+  - time: "6:00 PM"
+    endTime: "7:30 AM"
+    artist: "Daniel Pierce"
+    title: "Documentary Storytelling with Daniel Pierce"
+
+  - time: "8:30 PM"
+    artist: "MAE B"
+
+  - time: "9:45 PM"
+    artist: "Okiro"
+
+  - time: "11:00 PM"
+    artist: "Sundog"
+
+  - time: "12:15 AM"
+    artist: "Alex Unger"
+
+  - time: "1:30 AM"
+    artist: "Paint Department"
+
+  - time: "3:00 AM"
+    endTime: "4:30 AM"
+    artist: "ViraVira"
