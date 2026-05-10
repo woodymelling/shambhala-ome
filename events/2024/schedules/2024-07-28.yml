@@ -1,274 +1,355 @@
+date: "2024-07-28"
 performances:
   Ampitheatre:
-    - time: "5:30 PM"
-      artist: "Chrizpy Chriz"
-
-    - time: "6:30 PM"
-      artist: "Just John"
-
-    - time: "7:30 PM"
-      artist: "Saka"
-
-    - time: "8:30 PM"
-      artist: "Moore Kismet"
-
-    - time: "9:30 PM"
-      artist: "Tape B"
-
-    - time: "10:45 PM"
-      artist: "Eazybaked"
-
-    - time: "12:00 AM"
-      artist: "San Holo"
-
-    - time: "1:30 AM"
-      artist: "Tipper"
-
-    - time: "2:30 AM"
-      endTime: "4:30 AM"
-      artist: "Flowdan"
+    - title: "Chrizpy Chriz"
+      startTime: "17:30"
+      participantNames:
+      - "Chrizpy Chriz"
+    - title: "Just John"
+      startTime: "18:30"
+      participantNames:
+      - "Just John"
+    - title: "Saka"
+      startTime: "19:30"
+      participantNames:
+      - "Saka"
+    - title: "Moore Kismet"
+      startTime: "20:30"
+      participantNames:
+      - "Moore Kismet"
+    - title: "Tape B"
+      startTime: "21:30"
+      participantNames:
+      - "Tape B"
+    - title: "Eazybaked"
+      startTime: "22:45"
+      participantNames:
+      - "Eazybaked"
+    - title: "San Holo"
+      startTime: "00:00"
+      participantNames:
+      - "San Holo"
+    - title: "Tipper"
+      startTime: "01:30"
+      participantNames:
+      - "Tipper"
+    - title: "Flowdan"
+      startTime: "02:30"
+      endTime: "04:30"
+      participantNames:
+      - "Flowdan"
 
   Fractal Forest:
-    - time: "2:00 PM"
-      title: "Fractal Funk Jam Hosted by Smalltown DJs"
-      artist: "Smalltown DJs"
-
-    - time: "7:00 PM"
-      artist: "Pineo & Loeb"
-
-    - time: "8:00 PM"
-      artist: "Skiitour"
-
-    - time: "9:00 PM"
-      artist: "The Sponges"
-
-    - time: "10:00 PM"
-      artist: "Neon Steve"
-
-    - time: "11:00 PM"
-      artist: "Wax Motif"
-
-    - time: "12:00 AM"
-      artist: "Dillon Francis"
-
-    - time: "1:00 AM"
-      artist: "Marten Hørger"
-
-    - time: "2:00 AM"
-      artist: "Bijou"
-
-    - time: "3:00 AM"
-      artist: "Cazztek"
-
-    - time: "4:00 AM"
-      artist: "Thomas Anthony"
-
-    - time: "5:00 AM"
-      artist: "Wes Please"
-
-    - time: "6:30 AM"
-      artist: "Justin Hale"
-
-    - time: "8:00 AM"
-      endTime: "9:00 AM"
-      artist: "Rich-E-Rich"
+    - title: "Fractal Funk Jam Hosted by Smalltown DJs"
+      startTime: "14:00"
+      participantNames:
+      - "Smalltown DJs"
+    - title: "Pineo & Loeb"
+      startTime: "19:00"
+      participantNames:
+      - "Pineo & Loeb"
+    - title: "Skiitour"
+      startTime: "20:00"
+      participantNames:
+      - "Skiitour"
+    - title: "The Sponges"
+      startTime: "21:00"
+      participantNames:
+      - "The Sponges"
+    - title: "Neon Steve"
+      startTime: "22:00"
+      participantNames:
+      - "Neon Steve"
+    - title: "Wax Motif"
+      startTime: "23:00"
+      participantNames:
+      - "Wax Motif"
+    - title: "Dillon Francis"
+      startTime: "00:00"
+      participantNames:
+      - "Dillon Francis"
+    - title: "Marten Hørger"
+      startTime: "01:00"
+      participantNames:
+      - "Marten Hørger"
+    - title: "Bijou"
+      startTime: "02:00"
+      participantNames:
+      - "Bijou"
+    - title: "Cazztek"
+      startTime: "03:00"
+      participantNames:
+      - "Cazztek"
+    - title: "Thomas Anthony"
+      startTime: "04:00"
+      participantNames:
+      - "Thomas Anthony"
+    - title: "Wes Please"
+      startTime: "05:00"
+      participantNames:
+      - "Wes Please"
+    - title: "Justin Hale"
+      startTime: "06:30"
+      participantNames:
+      - "Justin Hale"
+    - title: "Rich-E-Rich"
+      startTime: "08:00"
+      endTime: "09:00"
+      participantNames:
+      - "Rich-E-Rich"
 
   Grove:
-    - time: "5:00 PM"
-      artist: "Alex Moon"
-
-    - time: "6:00 PM"
-      artist: "Yetz"
-
-    - time: "7:00 PM"
-      artist: "Footprints"
-
-    - time: "8:00 PM"
-      artist: "Five Alarm Funk"
-
-    - time: "9:15 PM"
-      artist: "Fungineers"
-
-    - time: "10:15 PM"
-      artist: "O'Flynn"
-
-    - time: "11:30 PM"
-      artist: "Logic1000"
-
-    - time: "1:00 AM"
-      artist: "Ben UFO"
-
-    - time: "2:30 AM"
-      artist: "Bonobo"
-
-    - time: "4:00 AM"
-      artist: "Jasper Tygner"
-
-    - time: "5:30 AM"
-      endTime: "7:00 AM"
-      artist: "Frameworks"
-
+    - title: "Alex Moon"
+      startTime: "17:00"
+      participantNames:
+      - "Alex Moon"
+    - title: "Yetz"
+      startTime: "18:00"
+      participantNames:
+      - "Yetz"
+    - title: "Footprints"
+      startTime: "19:00"
+      participantNames:
+      - "Footprints"
+    - title: "Five Alarm Funk"
+      startTime: "20:00"
+      participantNames:
+      - "Five Alarm Funk"
+    - title: "Fungineers"
+      startTime: "21:15"
+      participantNames:
+      - "Fungineers"
+    - title: "O'Flynn"
+      startTime: "22:15"
+      participantNames:
+      - "O'Flynn"
+    - title: "Logic1000"
+      startTime: "23:30"
+      participantNames:
+      - "Logic1000"
+    - title: "Ben UFO"
+      startTime: "01:00"
+      participantNames:
+      - "Ben UFO"
+    - title: "Bonobo"
+      startTime: "02:30"
+      participantNames:
+      - "Bonobo"
+    - title: "Jasper Tygner"
+      startTime: "04:00"
+      participantNames:
+      - "Jasper Tygner"
+    - title: "Frameworks"
+      startTime: "05:30"
+      endTime: "07:00"
+      participantNames:
+      - "Frameworks"
 
   Living Room:
-    - time: "12:00 PM"
-      artist: "Sijay James"
-
-    - time: "1:00 PM"
-      title: "Lightcode"
-      artist: "LSDream"
-
-    - time: "2:00 PM"
-      artist: "Everyman & Joaqoepelli"
-
-    - time: "2:30 PM"
-      artist: "Hoola and the Gang"
-
-    - time: "3:00 PM"
-      artist: "Nick Bike"
-
-    - time: "4:30 PM"
-      artist: "Mark Woodyard"
-
-    - time: "5:30 PM"
-      artist: "Foxy Moron"
-
-    - time: "6:30 PM"
-      artist: "Chimp It"
-
-    - time: "7:30 PM"
-      artist: "Murge"
-
-    - time: "8:30 PM"
-      artist: "Honeycomb"
-
-    - time: "9:30 PM"
-      artist: "Mat the Alien"
-
-    - time: "10:30 PM"
-      artist: "Z-Trip"
-
-    - time: "12:00 AM"
-      artist: "Wajatta ft: Reggie Watts & John Tejada"
-
-    - time: "1:30 AM"
-      artist: "Sabo"
-
-    - time: "4:00 AM"
-      artist: "Radio Fryer"
-
-    - time: "5:30 AM"
-      artist: "Shiny Things"
-
-    - time: "7:00 AM"
-      endTime: "8:00 AM"
-      artist: "The Pride w/ Lion-S & Hoola"
+    - title: "Sijay James"
+      startTime: "12:00"
+      participantNames:
+      - "Sijay James"
+    - title: "Lightcode"
+      startTime: "13:00"
+      participantNames:
+      - "LSDream"
+    - title: "Everyman & Joaqoepelli"
+      startTime: "14:00"
+      participantNames:
+      - "Everyman & Joaqoepelli"
+    - title: "Hoola and the Gang"
+      startTime: "14:30"
+      participantNames:
+      - "Hoola and the Gang"
+    - title: "Nick Bike"
+      startTime: "15:00"
+      participantNames:
+      - "Nick Bike"
+    - title: "Mark Woodyard"
+      startTime: "16:30"
+      participantNames:
+      - "Mark Woodyard"
+    - title: "Foxy Moron"
+      startTime: "17:30"
+      participantNames:
+      - "Foxy Moron"
+    - title: "Chimp It"
+      startTime: "18:30"
+      participantNames:
+      - "Chimp It"
+    - title: "Murge"
+      startTime: "19:30"
+      participantNames:
+      - "Murge"
+    - title: "Honeycomb"
+      startTime: "20:30"
+      participantNames:
+      - "Honeycomb"
+    - title: "Mat the Alien"
+      startTime: "21:30"
+      participantNames:
+      - "Mat the Alien"
+    - title: "Z-Trip"
+      startTime: "22:30"
+      participantNames:
+      - "Z-Trip"
+    - title: "Wajatta ft: Reggie Watts & John Tejada"
+      startTime: "00:00"
+      participantNames:
+      - "Wajatta ft: Reggie Watts & John Tejada"
+    - title: "Sabo"
+      startTime: "01:30"
+      participantNames:
+      - "Sabo"
+    - title: "Radio Fryer"
+      startTime: "04:00"
+      participantNames:
+      - "Radio Fryer"
+    - title: "Shiny Things"
+      startTime: "05:30"
+      participantNames:
+      - "Shiny Things"
+    - title: "The Pride w/ Lion-S & Hoola"
+      startTime: "07:00"
+      endTime: "08:00"
+      participantNames:
+      - "The Pride w/ Lion-S & Hoola"
 
   Pagoda:
-    - time: "4:00 PM"
-      artist: "Be Hazzy"
-
-    - time: "5:00 PM"
-      artist: "Naturalist"
-
-    - time: "6:00 PM"
-      artist: "Defied"
-
-    - time: "7:00 PM"
-      artist: "Coltcuts"
-
-    - time: "8:00 PM"
-      artist: "Lyny"
-
-    - time: "9:00 PM"
-      artist: "One True God"
-
-    - time: "10:00 PM"
-      endTime: "11:15 PM"
-      artist: "Zingara"
-
-    - time: "11:30 PM"
-      endTime: "12:45 AM"
-      artist: "Clozee"
-
-    - time: "1:00 AM"
-      endTime: "2:15 AM"
-      artist: "LSDream"
-
-    - time: "2:30 AM"
-      artist: "Barclay Crenshaw"
-
-    - time: "3:30 AM"
-      artist: "Koan Sound"
-
-    - time: "5:00 AM"
-      endTime: "6:00 AM"
-      artist: "Skreid B2B Trip A"
+    - title: "Be Hazzy"
+      startTime: "16:00"
+      participantNames:
+      - "Be Hazzy"
+    - title: "Naturalist"
+      startTime: "17:00"
+      participantNames:
+      - "Naturalist"
+    - title: "Defied"
+      startTime: "18:00"
+      participantNames:
+      - "Defied"
+    - title: "Coltcuts"
+      startTime: "19:00"
+      participantNames:
+      - "Coltcuts"
+    - title: "Lyny"
+      startTime: "20:00"
+      participantNames:
+      - "Lyny"
+    - title: "One True God"
+      startTime: "21:00"
+      participantNames:
+      - "One True God"
+    - title: "Zingara"
+      startTime: "22:00"
+      endTime: "23:15"
+      participantNames:
+      - "Zingara"
+    - title: "Clozee"
+      startTime: "23:30"
+      endTime: "00:45"
+      participantNames:
+      - "Clozee"
+    - title: "LSDream"
+      startTime: "01:00"
+      endTime: "02:15"
+      participantNames:
+      - "LSDream"
+    - title: "Barclay Crenshaw"
+      startTime: "02:30"
+      participantNames:
+      - "Barclay Crenshaw"
+    - title: "Koan Sound"
+      startTime: "03:30"
+      participantNames:
+      - "Koan Sound"
+    - title: "Skreid B2B Trip A"
+      startTime: "05:00"
+      endTime: "06:00"
+      participantNames:
+      - "Skreid B2B Trip A"
 
   Village:
-    - time: "6:00 PM"
-      artist: "DLB"
+    - title: "DLB"
+      startTime: "18:00"
+      participantNames:
+      - "DLB"
+    - title: "Trevor Galore"
+      startTime: "19:00"
+      participantNames:
+      - "Trevor Galore"
+    - title: "Ill.Gates"
+      startTime: "20:00"
+      participantNames:
+      - "Ill.Gates"
+    - title: "Wolfy Lights ft. KJ Sawka"
+      startTime: "21:00"
+      participantNames:
+      - "Wolfy Lights ft. KJ Sawka"
+    - title: "P Money x Whiney"
+      startTime: "22:00"
+      participantNames:
+      - "P Money x Whiney"
+    - title: "A.M.C w/ Armanni Reign"
+      startTime: "23:00"
+      participantNames:
+      - "A.M.C"
+      - "Armanni Reign"
+    - title: "Dimension"
+      startTime: "00:00"
+      participantNames:
+      - "Dimension"
+    - title: "Subtronics"
+      startTime: "01:30"
+      participantNames:
+      - "Subtronics"
+    - title: "Juelz"
+      startTime: "03:00"
+      participantNames:
+      - "Juelz"
+    - title: "Tha Funk Junkie"
+      startTime: "04:00"
+      endTime: "05:30"
+      participantNames:
+      - "Tha Funk Junkie"
 
-    - time: "7:00 PM"
-      artist: "Trevor Galore"
-
-    - time: "8:00 PM"
-      artist: "Ill.Gates"
-
-    - time: "9:00 PM"
-      artist: "Wolfy Lights ft. KJ Sawka"
-
-    - time: "10:00 PM"
-      artist: "P Money x Whiney"
-
-    - time: "11:00 PM"
-      title: "A.M.C w/ Armanni Reign"
-      artists:
-        - "A.M.C"
-        - "Armanni Reign"
-
-    - time: "12:00 AM"
-      artist: "Dimension"
-
-    - time: "1:30 AM"
-      artist: "Subtronics"
-
-    - time: "3:00 AM"
-      artist: "Juelz"
-
-    - time: "4:00 AM"
-      endTime: "5:30 AM"
-      artist: "Tha Funk Junkie"
-
-
-  Secret Garden:  # Please specify the stage name
-    - time: "12:00 PM"
-      title: "Pratyahara Blindfold Yoga"
-      artist: "Brenna Bote & John Early"
-
-    - time: "2:00 PM"
-      artist: "Creek St."
-
-    - time: "3:00 PM"
-      title: "Flipped Perspective Inversions"
-      artist: "Matthew Vause"
-
-    - time: "4:30 PM"
-      endTime: "6:00 PM"
-      title: "Deep Bass Breathwork"
-      artist: "Mala Wellness Collective"
-
-    - time: "9:00 PM"
-      artist: "Ghillie & Skbr"
-
-    - time: "10:30 PM"
-      artist: "Abstrakt Sonance"
-
-    - time: "12:00 AM"
-      artist: "Versa"
-
-    - time: "1:30 AM"
-      artist: "Rowl"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Okiro"
+  Secret Garden:
+    - title: "Pratyahara Blindfold Yoga"
+      startTime: "12:00"
+      participantNames:
+      - "Brenna Bote & John Early"
+    - title: "Creek St."
+      startTime: "14:00"
+      participantNames:
+      - "Creek St."
+    - title: "Flipped Perspective Inversions"
+      startTime: "15:00"
+      participantNames:
+      - "Matthew Vause"
+    - title: "Deep Bass Breathwork"
+      startTime: "16:30"
+      endTime: "18:00"
+      participantNames:
+      - "Mala Wellness Collective"
+    - title: "Ghillie & Skbr"
+      startTime: "21:00"
+      participantNames:
+      - "Ghillie & Skbr"
+    - title: "Abstrakt Sonance"
+      startTime: "22:30"
+      participantNames:
+      - "Abstrakt Sonance"
+    - title: "Versa"
+      startTime: "00:00"
+      participantNames:
+      - "Versa"
+    - title: "Rowl"
+      startTime: "01:30"
+      participantNames:
+      - "Rowl"
+    - title: "Okiro"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Okiro"

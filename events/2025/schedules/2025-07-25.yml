@@ -1,257 +1,333 @@
+date: "2025-07-25"
 performances:
-  Ampitheatre: 
-    - time: "5:00 PM"
-      artist: "2TALL"
-
-    - time: "6:00 PM"
-      artist: "RatchaelBeats"
-
-    - time: "7:00 PM"
-      artist: "Mfinity"
-
-    - time: "8:00 PM"
-      artist: "OkayJake"
-
-    - time: "9:00 PM"
-      artist: "Supertask"
-
-    - time: "10:00 PM"
-      artist: "Resonant Language"
-
-    - time: "11:00 PM"
-      artist: "WHIPPED CREAM"
-
-    - time: "12:15 AM"
-      artist: "TroyBoi"
-
-    - time: "1:30 AM"
-      artist: "SHADES"
-
-    - time: "3:00 AM"
-      artist: "Kursa"
-      endTime: "4:00 AM"
+  Ampitheatre:
+    - title: "2TALL"
+      startTime: "17:00"
+      participantNames:
+      - "2TALL"
+    - title: "RatchaelBeats"
+      startTime: "18:00"
+      participantNames:
+      - "RatchaelBeats"
+    - title: "Mfinity"
+      startTime: "19:00"
+      participantNames:
+      - "Mfinity"
+    - title: "OkayJake"
+      startTime: "20:00"
+      participantNames:
+      - "OkayJake"
+    - title: "Supertask"
+      startTime: "21:00"
+      participantNames:
+      - "Supertask"
+    - title: "Resonant Language"
+      startTime: "22:00"
+      participantNames:
+      - "Resonant Language"
+    - title: "WHIPPED CREAM"
+      startTime: "23:00"
+      participantNames:
+      - "WHIPPED CREAM"
+    - title: "TroyBoi"
+      startTime: "00:15"
+      participantNames:
+      - "TroyBoi"
+    - title: "SHADES"
+      startTime: "01:30"
+      participantNames:
+      - "SHADES"
+    - title: "Kursa"
+      startTime: "03:00"
+      endTime: "04:00"
+      participantNames:
+      - "Kursa"
 
   Fractal Forest:
-    - time: "4:30 PM"
-      artist: "Freddy J"
-
-    - time: "6:00 PM"
-      artist: "Underdog"
-
-    - time: "7:00 PM"
-      artist: "Burchill"
-
-    - time: "8:00 PM"
-      artist: "Mood Swing & Chevy Bass ft. Wilma"
-
-    - time: "9:00 PM"
-      artist: "K+Lab"
-
-    - time: "10:00 PM"
-      artist: "Stickybuds"
-
-    - time: "11:00 PM"
-      artist: "Opiuo"
-
-    - time: "12:00 AM"
-      title: "Big Gigantic (DJ Set)"
-      artist: "Big Gigantic"
-
-    - time: "1:00 AM"
-      artist: "The Funk Hunters"
-
-    - time: "2:00 AM"
-      artist: "Smalltown DJs"
-
-    - time: "3:00 AM"
-      artist: "No Thanks"
-
-    - time: "4:00 AM"
-      artist: "Joanna Magik"
-
-    - time: "5:00 AM"
-      endTime: "6:30 AM"
-      artist: "Joseph Martin"
+    - title: "Freddy J"
+      startTime: "16:30"
+      participantNames:
+      - "Freddy J"
+    - title: "Underdog"
+      startTime: "18:00"
+      participantNames:
+      - "Underdog"
+    - title: "Burchill"
+      startTime: "19:00"
+      participantNames:
+      - "Burchill"
+    - title: "Mood Swing & Chevy Bass ft. Wilma"
+      startTime: "20:00"
+      participantNames:
+      - "Mood Swing & Chevy Bass ft. Wilma"
+    - title: "K+Lab"
+      startTime: "21:00"
+      participantNames:
+      - "K+Lab"
+    - title: "Stickybuds"
+      startTime: "22:00"
+      participantNames:
+      - "Stickybuds"
+    - title: "Opiuo"
+      startTime: "23:00"
+      participantNames:
+      - "Opiuo"
+    - title: "Big Gigantic (DJ Set)"
+      startTime: "00:00"
+      participantNames:
+      - "Big Gigantic"
+    - title: "The Funk Hunters"
+      startTime: "01:00"
+      participantNames:
+      - "The Funk Hunters"
+    - title: "Smalltown DJs"
+      startTime: "02:00"
+      participantNames:
+      - "Smalltown DJs"
+    - title: "No Thanks"
+      startTime: "03:00"
+      participantNames:
+      - "No Thanks"
+    - title: "Joanna Magik"
+      startTime: "04:00"
+      participantNames:
+      - "Joanna Magik"
+    - title: "Joseph Martin"
+      startTime: "05:00"
+      endTime: "06:30"
+      participantNames:
+      - "Joseph Martin"
 
   Grove:
-    - time: "1:00 PM"
-      title: "Opening Intention"
-
-    - time: "1:30 PM"
-      artist: "Tor x Murge"
-
-    - time: "3:00 PM"
-      artist: "JPOD"
-
-    - time: "4:15 PM"
-      artist: "Mood Change"
-
-    - time: "5:30 PM"
-      artist: "Mother Mary"
-
-    - time: "6:30 PM"
-      artist: "Skerd"
-
-    - time: "7:30 PM"
-      artist: "ASHEZ"
-
-    - time: "8:30 PM"
-      artist: "The Librarian"
-
-    - time: "9:45 PM"
-      artist: "Sacred G's"
-
-    - time: "10:00 PM"
-      artist: "Ivy Lab"
-
-    - time: "11:30 PM"
-      artist: "Mia Koden"
-
-    - time: "1:00 AM"
-      artist: "Dimond Saints"
-
-    - time: "2:30 AM"
-      artist: "Cartridge"
-
-    - time: "4:00 AM"
-      artist: "OAKK"
-
-    - time: "5:15 AM"
-      endTime: "6:30 AM"
-      artist: "Saturna"
+    - title: "Opening Intention"
+      startTime: "13:00"
+    - title: "Tor x Murge"
+      startTime: "13:30"
+      participantNames:
+      - "Tor x Murge"
+    - title: "JPOD"
+      startTime: "15:00"
+      participantNames:
+      - "JPOD"
+    - title: "Mood Change"
+      startTime: "16:15"
+      participantNames:
+      - "Mood Change"
+    - title: "Mother Mary"
+      startTime: "17:30"
+      participantNames:
+      - "Mother Mary"
+    - title: "Skerd"
+      startTime: "18:30"
+      participantNames:
+      - "Skerd"
+    - title: "ASHEZ"
+      startTime: "19:30"
+      participantNames:
+      - "ASHEZ"
+    - title: "The Librarian"
+      startTime: "20:30"
+      participantNames:
+      - "The Librarian"
+    - title: "Sacred G's"
+      startTime: "21:45"
+      participantNames:
+      - "Sacred G's"
+    - title: "Ivy Lab"
+      startTime: "22:00"
+      participantNames:
+      - "Ivy Lab"
+    - title: "Mia Koden"
+      startTime: "23:30"
+      participantNames:
+      - "Mia Koden"
+    - title: "Dimond Saints"
+      startTime: "01:00"
+      participantNames:
+      - "Dimond Saints"
+    - title: "Cartridge"
+      startTime: "02:30"
+      participantNames:
+      - "Cartridge"
+    - title: "OAKK"
+      startTime: "04:00"
+      participantNames:
+      - "OAKK"
+    - title: "Saturna"
+      startTime: "05:15"
+      endTime: "06:30"
+      participantNames:
+      - "Saturna"
 
   Living Room:
-    - time: "12:00 PM"
-      title: "DJ K-TEL"
-
-    - time: "1:00 PM"
-      artist: "Foxy Moron"
-
-    - time: "2:30 PM"
-      title: "Hoola & We Love Lamp Showcase"
-      artists:
+    - title: "DJ K-TEL"
+      startTime: "12:00"
+    - title: "Foxy Moron"
+      startTime: "13:00"
+      participantNames:
+      - "Foxy Moron"
+    - title: "Hoola & We Love Lamp Showcase"
+      startTime: "14:30"
+      participantNames:
       - "Hoola"
       - "We Love Lamp"
-
-    - time: "4:00 PM"
-      artist: "Flipout"
-
-    - time: "5:00 PM"
-      artist: "DJ KOCO AKA SHIMOKITA"
-
-    - time: "6:00 PM"
-      artist: "DJ Nu-Mark"
-
-    - time: "7:30 PM"
-      artist: "Moon Hooch"
-
-    - time: "8:30 PM"
-      artist: "DJ Heather"
-
-    - time: "10:00 PM"
-      artist: "Mark Farina"
-
-    - time: "11:30 PM"
-      artist: "DJ Minx"
-
-    - time: "1:00 AM"
-      artist: "Lovefingers"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Fleetmax Wood"
+    - title: "Flipout"
+      startTime: "16:00"
+      participantNames:
+      - "Flipout"
+    - title: "DJ KOCO AKA SHIMOKITA"
+      startTime: "17:00"
+      participantNames:
+      - "DJ KOCO AKA SHIMOKITA"
+    - title: "DJ Nu-Mark"
+      startTime: "18:00"
+      participantNames:
+      - "DJ Nu-Mark"
+    - title: "Moon Hooch"
+      startTime: "19:30"
+      participantNames:
+      - "Moon Hooch"
+    - title: "DJ Heather"
+      startTime: "20:30"
+      participantNames:
+      - "DJ Heather"
+    - title: "Mark Farina"
+      startTime: "22:00"
+      participantNames:
+      - "Mark Farina"
+    - title: "DJ Minx"
+      startTime: "23:30"
+      participantNames:
+      - "DJ Minx"
+    - title: "Lovefingers"
+      startTime: "01:00"
+      participantNames:
+      - "Lovefingers"
+    - title: "Fleetmax Wood"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Fleetmax Wood"
 
   Pagoda:
-    - time: "4:00 PM"
-      artist: "Logan Hart"
-
-    - time: "5:00 PM"
-      artist: "TKO"
-
-    - time: "6:15 PM"
-      artist: "Case of the Mondays"
-
-    - time: "7:30 PM"
-      artist: "DJ SOUP"
-
-    - time: "8:45 PM"
-      artist: "N2N"
-
-    - time: "10:00 PM"
-      artist: "Eats Everything"
-
-    - time: "11:30 PM"
-      artist: "Vintage Culture"
-
-    - time: "1:00 AM"
-      artist: "Chris Lake"
-
-    - time: "2:30 AM"
-      artist: "Justin Martin"
-
-    - time: "3:45 AM"
-      endTime: "6:00 AM"
-      title: "Destructo Sermon Set"
-      artist: "Destructo"
+    - title: "Logan Hart"
+      startTime: "16:00"
+      participantNames:
+      - "Logan Hart"
+    - title: "TKO"
+      startTime: "17:00"
+      participantNames:
+      - "TKO"
+    - title: "Case of the Mondays"
+      startTime: "18:15"
+      participantNames:
+      - "Case of the Mondays"
+    - title: "DJ SOUP"
+      startTime: "19:30"
+      participantNames:
+      - "DJ SOUP"
+    - title: "N2N"
+      startTime: "20:45"
+      participantNames:
+      - "N2N"
+    - title: "Eats Everything"
+      startTime: "22:00"
+      participantNames:
+      - "Eats Everything"
+    - title: "Vintage Culture"
+      startTime: "23:30"
+      participantNames:
+      - "Vintage Culture"
+    - title: "Chris Lake"
+      startTime: "01:00"
+      participantNames:
+      - "Chris Lake"
+    - title: "Justin Martin"
+      startTime: "02:30"
+      participantNames:
+      - "Justin Martin"
+    - title: "Destructo Sermon Set"
+      startTime: "03:45"
+      endTime: "06:00"
+      participantNames:
+      - "Destructo"
 
   Village:
-    - time: "3:00 PM"
-      title: "Village Rinse Out Hosted by John Rolodex"
-
-    - time: "8:30 PM"
-      artist: "Stylust"
-
-    - time: "9:30 PM"
-      artist: "Armanni Reign"
-
-    - time: "10:00 PM"
-      artist: "Subvert w/ Armanni Reign"
-
-    - time: "11:00 PM"
-      artist: "RIOT"
-
-    - time: "12:30 AM"
-      artist: "Excision"
-
-    - time: "2:00 AM"
-      artist: "Bou"
-
-    - time: "3:00 AM"
-      artist: "Luude"
-
-    - time: "4:00 AM"
-      endTime: "5:30 AM"
-      artist: "Buddy & The Buffalo"
+    - title: "Village Rinse Out Hosted by John Rolodex"
+      startTime: "15:00"
+    - title: "Stylust"
+      startTime: "20:30"
+      participantNames:
+      - "Stylust"
+    - title: "Armanni Reign"
+      startTime: "21:30"
+      participantNames:
+      - "Armanni Reign"
+    - title: "Subvert w/ Armanni Reign"
+      startTime: "22:00"
+      participantNames:
+      - "Subvert w/ Armanni Reign"
+    - title: "RIOT"
+      startTime: "23:00"
+      participantNames:
+      - "RIOT"
+    - title: "Excision"
+      startTime: "00:30"
+      participantNames:
+      - "Excision"
+    - title: "Bou"
+      startTime: "02:00"
+      participantNames:
+      - "Bou"
+    - title: "Luude"
+      startTime: "03:00"
+      participantNames:
+      - "Luude"
+    - title: "Buddy & The Buffalo"
+      startTime: "04:00"
+      endTime: "05:30"
+      participantNames:
+      - "Buddy & The Buffalo"
 
   Secret Garden:
-    - time: "1:30 PM"
-      artist: "Church of Central Raving"
-
-    - time: "3:00 PM"
-      title: "Fly with Me Acro Yoga"
-      artist: "John Early & Brenna Bote"
-
-    - time: "4:30 PM"
-      artist: "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
-
-    - time: "6:00 PM"
-      artist: "Music, Healing, & The History of Dance Culture"
-
-    - time: "7:30 PM"
-      artist: "Cloak and Dagger"
-
-    - time: "9:00 PM"
-      artist: "Busy Patterns"
-
-    - time: "10:30 PM"
-      artist: "mr.b"
-
-    - time: "12:00 AM"
-      artist: "Civillian"
-
-    - time: "1:30 AM"
-      artist: "pheel"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Akiiba"
+    - title: "Church of Central Raving"
+      startTime: "13:30"
+      participantNames:
+      - "Church of Central Raving"
+    - title: "Fly with Me Acro Yoga"
+      startTime: "15:00"
+      participantNames:
+      - "John Early & Brenna Bote"
+    - title: "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
+      startTime: "16:30"
+      participantNames:
+      - "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
+    - title: "Music, Healing, & The History of Dance Culture"
+      startTime: "18:00"
+      participantNames:
+      - "Music, Healing, & The History of Dance Culture"
+    - title: "Cloak and Dagger"
+      startTime: "19:30"
+      participantNames:
+      - "Cloak and Dagger"
+    - title: "Busy Patterns"
+      startTime: "21:00"
+      participantNames:
+      - "Busy Patterns"
+    - title: "mr.b"
+      startTime: "22:30"
+      participantNames:
+      - "mr.b"
+    - title: "Civillian"
+      startTime: "00:00"
+      participantNames:
+      - "Civillian"
+    - title: "pheel"
+      startTime: "01:30"
+      participantNames:
+      - "pheel"
+    - title: "Akiiba"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Akiiba"

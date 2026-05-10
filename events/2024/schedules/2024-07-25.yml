@@ -1,83 +1,111 @@
-date: '2024-07-25'
+date: "2024-07-25"
 performances:
   Ampitheatre:
-    - time: "12:00 PM"
-      artist: "S2"
-      
-    - time: "1:00 PM"
-      artist: "Shrimpnose"
-      
-    - time: "2:00 PM"
-      artist: "KLL SMTH"
-      
-    - time: "3:00 PM"
-      artist: "Pigeon Hole"
-      
-    - time: "4:15 PM"
-      artist: "Mr. Jennings"
-      
-    - time: "5:30 PM"
-      artist: "Skiitour"
-      
-    - time: "7:00 PM"
-      artist: "Ahee"
-      
-    - time: "8:30 PM"
-      artist: "Chmura"
-      
-    - time: "9:30 PM"
-      artist: "Tsuruda"
-      
-    - time: "10:30 PM"
-      artist: "PAV4N & Strategy"
-      
-    - time: "11:30 PM"
-      artist: "The Caracal Project"
-      
-    - time: "12:30 AM"
-      endTime: "2:00 AM"
-      artist: "Longwalkshortdock"
+    - title: "S2"
+      startTime: "12:00"
+      participantNames:
+      - "S2"
+    - title: "Shrimpnose"
+      startTime: "13:00"
+      participantNames:
+      - "Shrimpnose"
+    - title: "KLL SMTH"
+      startTime: "14:00"
+      participantNames:
+      - "KLL SMTH"
+    - title: "Pigeon Hole"
+      startTime: "15:00"
+      participantNames:
+      - "Pigeon Hole"
+    - title: "Mr. Jennings"
+      startTime: "16:15"
+      participantNames:
+      - "Mr. Jennings"
+    - title: "Skiitour"
+      startTime: "17:30"
+      participantNames:
+      - "Skiitour"
+    - title: "Ahee"
+      startTime: "19:00"
+      participantNames:
+      - "Ahee"
+    - title: "Chmura"
+      startTime: "20:30"
+      participantNames:
+      - "Chmura"
+    - title: "Tsuruda"
+      startTime: "21:30"
+      participantNames:
+      - "Tsuruda"
+    - title: "PAV4N & Strategy"
+      startTime: "22:30"
+      participantNames:
+      - "PAV4N & Strategy"
+    - title: "The Caracal Project"
+      startTime: "23:30"
+      participantNames:
+      - "The Caracal Project"
+    - title: "Longwalkshortdock"
+      startTime: "00:30"
+      endTime: "02:00"
+      participantNames:
+      - "Longwalkshortdock"
 
   Living Room:
-    - time: "12:00 PM"
-      artist: "Marty Carter"
-      
-    - time: "12:45 PM"
-      artist: "Everyman"
-      
-    - time: "1:00 PM"
-      artist: "Binks"
-      
-    - time: "2:00 PM"
-      artist: "Sistersun"
-
-    - time: "3:00 PM"
-      artist: "Fort Knox Five"
-      
-    - time: "4:00 PM"
-      artist: "Ndidi Cascade & Powys HJ"
-      
-    - time: "4:30 PM"
-      artist: "Hoola"
-      
-    - time: "5:30 PM"
-      artist: "Soohan"
-      
-    - time: "7:00 PM"
-      artist: "Adham Shaikh"
-      
-    - time: "8:30 PM"
-      artist: "Meowmix"
-      
-    - time: "10:00 PM"
-      artist: "Tone Ranger"
-      
-    - time: "12:00 AM"
-      artist: "Fungineers"
-      
-    - time: "1:00 AM"
-      artist: "Prayer Handz"
-      
-    - time: "2:00 AM"
-      endTime: "2:30 AM"
-      artist: "Joaqopelli"
+    - title: "Marty Carter"
+      startTime: "12:00"
+      participantNames:
+      - "Marty Carter"
+    - title: "Everyman"
+      startTime: "12:45"
+      participantNames:
+      - "Everyman"
+    - title: "Binks"
+      startTime: "13:00"
+      participantNames:
+      - "Binks"
+    - title: "Sistersun"
+      startTime: "14:00"
+      participantNames:
+      - "Sistersun"
+    - title: "Fort Knox Five"
+      startTime: "15:00"
+      participantNames:
+      - "Fort Knox Five"
+    - title: "Ndidi Cascade & Powys HJ"
+      startTime: "16:00"
+      participantNames:
+      - "Ndidi Cascade & Powys HJ"
+    - title: "Hoola"
+      startTime: "16:30"
+      participantNames:
+      - "Hoola"
+    - title: "Soohan"
+      startTime: "17:30"
+      participantNames:
+      - "Soohan"
+    - title: "Adham Shaikh"
+      startTime: "19:00"
+      participantNames:
+      - "Adham Shaikh"
+    - title: "Meowmix"
+      startTime: "20:30"
+      participantNames:
+      - "Meowmix"
+    - title: "Tone Ranger"
+      startTime: "22:00"
+      participantNames:
+      - "Tone Ranger"
+    - title: "Fungineers"
+      startTime: "00:00"
+      participantNames:
+      - "Fungineers"
+    - title: "Prayer Handz"
+      startTime: "01:00"
+      participantNames:
+      - "Prayer Handz"
+    - title: "Joaqopelli"
+      startTime: "02:00"
+      endTime: "02:30"
+      participantNames:
+      - "Joaqopelli"

@@ -1,292 +1,362 @@
+date: "2025-07-26"
 performances:
   Ampitheatre:
-    - time: "3:00 PM"
-      artist: "Rave Runway Extravaganza Hosted by Freida Whales"
-
-    - time: "4:30 PM"
-      artist: "Athena"
-
-    - time: "5:30 PM"
-      artist: "KAIPORA"
-
-    - time: "6:30 PM"
-      artist: "INNOCENT"
-
-    - time: "7:30 PM"
-      artist: "Basura"
-
-    - time: "8:30 PM"
-      artist: "Torcha"
-
-    - time: "9:30 PM"
-      artist: "Moody Good"
-
-    - time: "11:00 PM"
-      artist: "Caspa"
-
-    - time: "12:30 AM"
-      endTime: "9:00 AM"
-      artist: "Skream & Friends"
+    - title: "Rave Runway Extravaganza Hosted by Freida Whales"
+      startTime: "15:00"
+      participantNames:
+      - "Rave Runway Extravaganza Hosted by Freida Whales"
+    - title: "Athena"
+      startTime: "16:30"
+      participantNames:
+      - "Athena"
+    - title: "KAIPORA"
+      startTime: "17:30"
+      participantNames:
+      - "KAIPORA"
+    - title: "INNOCENT"
+      startTime: "18:30"
+      participantNames:
+      - "INNOCENT"
+    - title: "Basura"
+      startTime: "19:30"
+      participantNames:
+      - "Basura"
+    - title: "Torcha"
+      startTime: "20:30"
+      participantNames:
+      - "Torcha"
+    - title: "Moody Good"
+      startTime: "21:30"
+      participantNames:
+      - "Moody Good"
+    - title: "Caspa"
+      startTime: "23:00"
+      participantNames:
+      - "Caspa"
+    - title: "Skream & Friends"
+      startTime: "00:30"
+      endTime: "09:00"
+      participantNames:
+      - "Skream & Friends"
 
   Fractal Forest:
-    - time: "4:00 PM"
-      artist: "Island Haze"
-
-    - time: "5:00 PM"
-      artist: "Jgirl & Manousos"
-
-    - time: "6:00 PM"
-      artist: "Farbsie Funk"
-
-    - time: "7:00 PM"
-      artist: "Fattycakes"
-
-    - time: "8:00 PM"
-      artist: "The Gaff"
-
-    - time: "9:00 PM"
-      artist: "Joey Valence & Brae"
-
-    - time: "10:00 PM"
-      artist: "Slynk"
-
-    - time: "11:00 PM"
-      artist: "Neon Steve"
-
-    - time: "12:00 AM"
-      artist: "Wuki"
-
-    - time: "1:00 AM"
-      artist: "Krafty Kuts"
-
-    - time: "2:00 AM"
-      artist: "A.SKILLZ"
-
-    - time: "3:00 AM"
-      artist: "Fort Knox Five & Qdup"
-
-    - time: "4:00 AM"
-      artist: "Father Funk"
-
-    - time: "5:00 AM"
-      endTime: "6:30 AM"
-      artist: "Neighbour"
+    - title: "Island Haze"
+      startTime: "16:00"
+      participantNames:
+      - "Island Haze"
+    - title: "Jgirl & Manousos"
+      startTime: "17:00"
+      participantNames:
+      - "Jgirl & Manousos"
+    - title: "Farbsie Funk"
+      startTime: "18:00"
+      participantNames:
+      - "Farbsie Funk"
+    - title: "Fattycakes"
+      startTime: "19:00"
+      participantNames:
+      - "Fattycakes"
+    - title: "The Gaff"
+      startTime: "20:00"
+      participantNames:
+      - "The Gaff"
+    - title: "Joey Valence & Brae"
+      startTime: "21:00"
+      participantNames:
+      - "Joey Valence & Brae"
+    - title: "Slynk"
+      startTime: "22:00"
+      participantNames:
+      - "Slynk"
+    - title: "Neon Steve"
+      startTime: "23:00"
+      participantNames:
+      - "Neon Steve"
+    - title: "Wuki"
+      startTime: "00:00"
+      participantNames:
+      - "Wuki"
+    - title: "Krafty Kuts"
+      startTime: "01:00"
+      participantNames:
+      - "Krafty Kuts"
+    - title: "A.SKILLZ"
+      startTime: "02:00"
+      participantNames:
+      - "A.SKILLZ"
+    - title: "Fort Knox Five & Qdup"
+      startTime: "03:00"
+      participantNames:
+      - "Fort Knox Five & Qdup"
+    - title: "Father Funk"
+      startTime: "04:00"
+      participantNames:
+      - "Father Funk"
+    - title: "Neighbour"
+      startTime: "05:00"
+      endTime: "06:30"
+      participantNames:
+      - "Neighbour"
 
   Grove:
-    - time: "2:30 PM"
-      artist: "El Toro"
+    - title: "El Toro"
+      startTime: "14:30"
+      participantNames:
+      - "El Toro"
+    - title: "Lazy Syrup Orchestra"
+      startTime: "15:30"
+      participantNames:
+      - "Lazy Syrup Orchestra"
+    - title: "PXLMTREES"
+      startTime: "17:00"
+      participantNames:
+      - "PXLMTREES"
+    - title: "DEFIED"
+      startTime: "18:00"
+      participantNames:
+      - "DEFIED"
+    - title: "Lil Bones"
+      startTime: "19:00"
+      participantNames:
+      - "Lil Bones"
+    - title: "Footprints"
+      startTime: "20:00"
+      participantNames:
+      - "Footprints"
+    - title: "Acromada"
+      startTime: "21:15"
+      participantNames:
+      - "Acromada"
+    - title: "1-800 GIRLS"
+      startTime: "21:30"
+      participantNames:
+      - "1-800 GIRLS"
+    - title: "Mindchatter (DJ Set)"
+      startTime: "22:30"
+      participantNames:
+      - "Mindchatter"
+    - title: "Mura Masa"
+      startTime: "23:45"
+      participantNames:
+      - "Mura Masa"
+    - title: "Flying Lotus"
+      startTime: "01:00"
+      participantNames:
+      - "Flying Lotus"
+    - title: "Loefah"
+      startTime: "02:30"
+      participantNames:
+      - "Loefah"
+    - title: "Chmura"
+      startTime: "04:00"
+      participantNames:
+      - "Chmura"
+    - title: "Alex Moon"
+      startTime: "05:15"
+      endTime: "06:30"
+      participantNames:
+      - "Alex Moon"
 
-    - time: "3:30 PM"
-      artist: "Lazy Syrup Orchestra"
-
-    - time: "5:00 PM"
-      artist: "PXLMTREES"
-
-    - time: "6:00 PM"
-      artist: "DEFIED"
-
-    - time: "7:00 PM"
-      artist: "Lil Bones"
-
-    - time: "8:00 PM"
-      artist: "Footprints" 
-
-    - time: "9:15 PM"
-      artist: "Acromada" 
-
-    - time: "9:30 PM"
-      artist: "1-800 GIRLS"
-
-    - time: "10:30 PM"
-      title: "Mindchatter (DJ Set)"
-      artist: "Mindchatter"
-
-    - time: "11:45 PM"
-      artist: "Mura Masa"
-
-    - time: "1:00 AM"
-      artist: "Flying Lotus"
-
-    - time: "2:30 AM"
-      artist: "Loefah"
-
-    - time: "4:00 AM"
-      artist: "Chmura"
-
-    - time: "5:15 AM"
-      endTime: "6:30 AM"
-      artist: "Alex Moon"
-
-  Living Room: 
-    - time: "1:00 PM"
-      artist: "Marty Carter"
-
-    - time: "2:00 PM"
-      artist: "Sijay James"
-
-    - time: "3:00 PM"
-      artist: "Breakfluid"
-
-    - time: "4:30 PM"
-      artist: "NASAYA"
-
-    - time: "5:30 PM"
-      artist: "Fluxo"
-
-    - time: "7:15 PM"
-      artist: "EVeryman"
-
-    - time: "7:45 PM"
-      artist: "Neil Jam3s"
-
-    - time: "8:45 PM"
-      artist: "Astrocolor"
-
-    - time: "10:15 PM"
-      artist: "Hoola"
-
-    - time: "10:30 PM"
-      artist: "Glass Beams"
-
-    - time: "11:30 PM"
-      title: "Elektric Collective with Hoola"
-      artists: 
-        - Elektric Collective
-        - Hoola
-
-    - time: "12:15 AM"
-      title: "Bob Moses (Club Set)"
-      artist: "Bob Moses"
-
-    - time: "2:00 AM"
-      endTime: "4:00 AM"
-      artists: 
-        - Tomahawk Bang
-        - Notorious Cree
+  Living Room:
+    - title: "Marty Carter"
+      startTime: "13:00"
+      participantNames:
+      - "Marty Carter"
+    - title: "Sijay James"
+      startTime: "14:00"
+      participantNames:
+      - "Sijay James"
+    - title: "Breakfluid"
+      startTime: "15:00"
+      participantNames:
+      - "Breakfluid"
+    - title: "NASAYA"
+      startTime: "16:30"
+      participantNames:
+      - "NASAYA"
+    - title: "Fluxo"
+      startTime: "17:30"
+      participantNames:
+      - "Fluxo"
+    - title: "EVeryman"
+      startTime: "19:15"
+      participantNames:
+      - "EVeryman"
+    - title: "Neil Jam3s"
+      startTime: "19:45"
+      participantNames:
+      - "Neil Jam3s"
+    - title: "Astrocolor"
+      startTime: "20:45"
+      participantNames:
+      - "Astrocolor"
+    - title: "Hoola"
+      startTime: "22:15"
+      participantNames:
+      - "Hoola"
+    - title: "Glass Beams"
+      startTime: "22:30"
+      participantNames:
+      - "Glass Beams"
+    - title: "Elektric Collective with Hoola"
+      startTime: "23:30"
+      participantNames:
+      - "Elektric Collective"
+      - "Hoola"
+    - title: "Bob Moses (Club Set)"
+      startTime: "00:15"
+      participantNames:
+      - "Bob Moses"
+    - title: "Tomahawk Bang / Notorious Cree"
+      startTime: "02:00"
+      endTime: "04:00"
+      participantNames:
+      - "Tomahawk Bang"
+      - "Notorious Cree"
 
   Pagoda:
-    - time: "3:30 PM"
-      artist: "T3MPR"
-
-    - time: "4:30 PM"
-      artist: "AWood"
-
-    - time: "5:30 PM"
-      title: "STUND B2B Broken Future"
-      artists: 
-        - STUND
-        - Broken Future
-
-    - time: "6:30 PM"
-      artist: "Sivz"
-
-    - time: "7:30 PM"
-      artist: "Rohaan"
-
-    - time: "8:45 PM"
-      artist: "Duskus"
-
-    - time: "10:00 PM"
-      artist: "Ahadadream"
-
-    - time: "11:15 PM"
-      title: "Elderbrook (DJ Set)"
-      artist: "Elderbrook"
-
-    - time: "12:45 AM"
-      artist: "salute"
-
-    - time: "2:15 AM"
-      artist: "MPH"
-
-    - time: "3:45 AM"
-      artist: "Justin Jay"
-
-    - time: "5:00 AM"
-      endTime: "6:00 AM"
-      artist: "FATHER SON"
+    - title: "T3MPR"
+      startTime: "15:30"
+      participantNames:
+      - "T3MPR"
+    - title: "AWood"
+      startTime: "16:30"
+      participantNames:
+      - "AWood"
+    - title: "STUND B2B Broken Future"
+      startTime: "17:30"
+      participantNames:
+      - "STUND"
+      - "Broken Future"
+    - title: "Sivz"
+      startTime: "18:30"
+      participantNames:
+      - "Sivz"
+    - title: "Rohaan"
+      startTime: "19:30"
+      participantNames:
+      - "Rohaan"
+    - title: "Duskus"
+      startTime: "20:45"
+      participantNames:
+      - "Duskus"
+    - title: "Ahadadream"
+      startTime: "22:00"
+      participantNames:
+      - "Ahadadream"
+    - title: "Elderbrook (DJ Set)"
+      startTime: "23:15"
+      participantNames:
+      - "Elderbrook"
+    - title: "salute"
+      startTime: "00:45"
+      participantNames:
+      - "salute"
+    - title: "MPH"
+      startTime: "02:15"
+      participantNames:
+      - "MPH"
+    - title: "Justin Jay"
+      startTime: "03:45"
+      participantNames:
+      - "Justin Jay"
+    - title: "FATHER SON"
+      startTime: "05:00"
+      endTime: "06:00"
+      participantNames:
+      - "FATHER SON"
 
   Village:
-    - time: "5:30 PM"
-      title: "#WOMBTANG - Ladies DNB Takeover Hosted by Crystal Fresh"
-      artists:
-        - "Aversive"
-        - "Cyncron"
-        - "Distinct"
-        - "Dani Lion"
-        - "J.F. Killah"
-        - "Vexa"
-        - "Selectress"
-
-    - time: "8:30 PM"
-      artist: "Triple XL"
-
-    - time: "9:30 PM"
-      artist: "Phibes"
-
-    - time: "10:30 PM"
-      artist: "Kanine"
-
-    - time: "11:30 PM"
-      artist: "Delta Heavy"
-
-    - time: "12:30 AM"
-      artist: "SLANDER"
-
-    - time: "2:00 AM"
-      artist: "ALLEYCVT"
-
-    - time: "3:30 AM"
-      endTime: "6:00 AM"
-      title: "The Chillage"
-      artists:
-        - "Illexxandra"
-        - "Def3"
-        - "Oakum"
-        - "Torbjorn"
-        - "Nurries"
-        - "CHXMERAS"
-        - "DJ Yawn"
+    - title: "#WOMBTANG - Ladies DNB Takeover Hosted by Crystal Fresh"
+      startTime: "17:30"
+      participantNames:
+      - "Aversive"
+      - "Cyncron"
+      - "Distinct"
+      - "Dani Lion"
+      - "J.F. Killah"
+      - "Vexa"
+      - "Selectress"
+    - title: "Triple XL"
+      startTime: "20:30"
+      participantNames:
+      - "Triple XL"
+    - title: "Phibes"
+      startTime: "21:30"
+      participantNames:
+      - "Phibes"
+    - title: "Kanine"
+      startTime: "22:30"
+      participantNames:
+      - "Kanine"
+    - title: "Delta Heavy"
+      startTime: "23:30"
+      participantNames:
+      - "Delta Heavy"
+    - title: "SLANDER"
+      startTime: "00:30"
+      participantNames:
+      - "SLANDER"
+    - title: "ALLEYCVT"
+      startTime: "02:00"
+      participantNames:
+      - "ALLEYCVT"
+    - title: "The Chillage"
+      startTime: "03:30"
+      endTime: "06:00"
+      participantNames:
+      - "Illexxandra"
+      - "Def3"
+      - "Oakum"
+      - "Torbjorn"
+      - "Nurries"
+      - "CHXMERAS"
+      - "DJ Yawn"
 
   Secret Garden:
-    - time: "10:30 AM"
-      artist: "Shakya"
-      title: "Restorative Qi Gong with Shakya"
-
-    - time: "12:00 PM"
-      title: "Sound Healing with the Troy Story 3"
-
-    - time: "1:30 PM"
-      title: "Rooted in Ritual Yoga with Gina Bukovnik"
-
-    - time: "3:30 PM"
-      artist: "Gina Dukovnik"
-      title: "Getting High on Your Own Supply"
-
-    - time: "4:30 PM"
-      artist: "Amanda Panda"
-      title: "Hula Hoop Playshop with Amanda Panda"
-
-    - time: "6:00 PM"
-      endTime: "7:30 PM"
-      artist: "Daniel Pierce"
-      title: "Documentary Storytelling with Daniel Pierce"
-
-    - time: "8:30 PM"
-      artist: "MAE B"
-
-    - time: "9:45 PM"
-      artist: "Okiro"
-
-    - time: "11:00 PM"
-      artist: "Sundog"
-
-    - time: "12:15 AM"
-      artist: "Alex Unger"
-
-    - time: "1:30 AM"
-      artist: "Paint Department"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "ViraVira"
+    - title: "Restorative Qi Gong with Shakya"
+      startTime: "10:30"
+      participantNames:
+      - "Shakya"
+    - title: "Sound Healing with the Troy Story 3"
+      startTime: "12:00"
+    - title: "Rooted in Ritual Yoga with Gina Bukovnik"
+      startTime: "13:30"
+    - title: "Getting High on Your Own Supply"
+      startTime: "15:30"
+      participantNames:
+      - "Gina Dukovnik"
+    - title: "Hula Hoop Playshop with Amanda Panda"
+      startTime: "16:30"
+      participantNames:
+      - "Amanda Panda"
+    - title: "Documentary Storytelling with Daniel Pierce"
+      startTime: "18:00"
+      endTime: "19:30"
+      participantNames:
+      - "Daniel Pierce"
+    - title: "MAE B"
+      startTime: "20:30"
+      participantNames:
+      - "MAE B"
+    - title: "Okiro"
+      startTime: "21:45"
+      participantNames:
+      - "Okiro"
+    - title: "Sundog"
+      startTime: "23:00"
+      participantNames:
+      - "Sundog"
+    - title: "Alex Unger"
+      startTime: "00:15"
+      participantNames:
+      - "Alex Unger"
+    - title: "Paint Department"
+      startTime: "01:30"
+      participantNames:
+      - "Paint Department"
+    - title: "ViraVira"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "ViraVira"

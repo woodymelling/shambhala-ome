@@ -1,295 +1,376 @@
+date: "2025-07-27"
 performances:
   Ampitheatre:
-    - time: "4:30 PM"
-      title: "Afternoon Saloon with Marin Patenaude"
-      artist: "Marin Patenaude"
-
-    - time: "6:30 PM"
-      artist: "Soukii"
-
-    - time: "7:30 PM"
-      artist: "Luke Petruzzi"
-
-    - time: "8:30 PM"
-      artist: "Camoufly"
-
-    - time: "9:30 PM"
-      artist: "Notion"
-
-    - time: "10:45 PM"
-      artist: "Oppidan"
-
-    - time: "12:00 AM"
-      artist: "Apashe"
-
-    - time: "1:30 AM"
-      artist: "Odd Mob"
-
-    - time: "3:00 AM"
-      endTime: "4:00 AM"
-      artist: "Zero"
+    - title: "Afternoon Saloon with Marin Patenaude"
+      startTime: "16:30"
+      participantNames:
+      - "Marin Patenaude"
+    - title: "Soukii"
+      startTime: "18:30"
+      participantNames:
+      - "Soukii"
+    - title: "Luke Petruzzi"
+      startTime: "19:30"
+      participantNames:
+      - "Luke Petruzzi"
+    - title: "Camoufly"
+      startTime: "20:30"
+      participantNames:
+      - "Camoufly"
+    - title: "Notion"
+      startTime: "21:30"
+      participantNames:
+      - "Notion"
+    - title: "Oppidan"
+      startTime: "22:45"
+      participantNames:
+      - "Oppidan"
+    - title: "Apashe"
+      startTime: "00:00"
+      participantNames:
+      - "Apashe"
+    - title: "Odd Mob"
+      startTime: "01:30"
+      participantNames:
+      - "Odd Mob"
+    - title: "Zero"
+      startTime: "03:00"
+      endTime: "04:00"
+      participantNames:
+      - "Zero"
 
   Fractal Forest:
-    - time: "2:00 PM"
-      title: "Fractal Funk Jam Hosted by Smalltown DJs featuring DJ Jazzy Jeff"
-      artist: "Smalltown DJs"
-
-    - time: "6:00 PM"
-      artist: "DJ Jazzy Jeff"
-
-    - time: "7:00 PM"
-      title: "PINEO & LOEB ft. K-OS"
-      artists:
-        - PINEO & LOEB
-        - K-OS
-
-    - time: "8:00 PM"
-      artist: "SkiiTour"
-
-    - time: "9:00 PM"
-      artist: "The Sponges"
-
-    - time: "10:00 PM"
-      title: "SOFI TUKKER (DJ Set)"
-      artist: "SOFI TUKKER"
-
-    - time: "11:00 PM"
-      artist: "It's Murph"
-
-    - time: "12:00 AM"
-      artist: "Dombresky"
-
-    - time: "1:00 AM"
-      artist: "Malaa"
-
-    - time: "2:00 AM"
-      artist: "Ship Wrek"
-
-    - time: "3:00 AM"
-      artist: "RUMPUS"
-
-    - time: "4:00 AM"
-      artist: "Thomas Anthony"
-
-    - time: "5:00 AM"
-      artist: "Wes Please"
-
-    - time: "6:30 AM"
-      artist: "Justin Hale"
-
-    - time: "8:00 AM"
-      endTime: "9:00 AM"
-      artist: "Rich-E-Rich"
+    - title: "Fractal Funk Jam Hosted by Smalltown DJs featuring DJ Jazzy Jeff"
+      startTime: "14:00"
+      participantNames:
+      - "Smalltown DJs"
+    - title: "DJ Jazzy Jeff"
+      startTime: "18:00"
+      participantNames:
+      - "DJ Jazzy Jeff"
+    - title: "PINEO & LOEB ft. K-OS"
+      startTime: "19:00"
+      participantNames:
+      - "PINEO & LOEB"
+      - "K-OS"
+    - title: "SkiiTour"
+      startTime: "20:00"
+      participantNames:
+      - "SkiiTour"
+    - title: "The Sponges"
+      startTime: "21:00"
+      participantNames:
+      - "The Sponges"
+    - title: "SOFI TUKKER (DJ Set)"
+      startTime: "22:00"
+      participantNames:
+      - "SOFI TUKKER"
+    - title: "It's Murph"
+      startTime: "23:00"
+      participantNames:
+      - "It's Murph"
+    - title: "Dombresky"
+      startTime: "00:00"
+      participantNames:
+      - "Dombresky"
+    - title: "Malaa"
+      startTime: "01:00"
+      participantNames:
+      - "Malaa"
+    - title: "Ship Wrek"
+      startTime: "02:00"
+      participantNames:
+      - "Ship Wrek"
+    - title: "RUMPUS"
+      startTime: "03:00"
+      participantNames:
+      - "RUMPUS"
+    - title: "Thomas Anthony"
+      startTime: "04:00"
+      participantNames:
+      - "Thomas Anthony"
+    - title: "Wes Please"
+      startTime: "05:00"
+      participantNames:
+      - "Wes Please"
+    - title: "Justin Hale"
+      startTime: "06:30"
+      participantNames:
+      - "Justin Hale"
+    - title: "Rich-E-Rich"
+      startTime: "08:00"
+      endTime: "09:00"
+      participantNames:
+      - "Rich-E-Rich"
 
   Grove:
-    - time: "5:00 PM"
-      artist: "Melo.Nade"
-
-    - time: "6:00 PM"
-      artist: "Mraki"
-
-    - time: "7:00 PM"
-      artist: "Rosso"
-
-    - time: "8:00 PM"
-      artist: "Barisone"
-
-    - time: "9:30 PM"
-      artist: "Lex Amor"
-
-    - time: "10:30 PM"
-      artist: "Major League DJZ"
-
-    - time: "12:00 AM"
-      title: "Channel Tres (DJ Set)"
-      artist: "Channel Tres"
-
-    - time: "1:15 AM"
-      artist: "Justin Martin"
-
-    - time: "2:30 AM"
-      artist: "Christian Loffler"
-
-    - time: "4:00 AM"
-      artist: "Emancipator"
-
-    - time: "5:30 AM"
-      endTime: "7:00 AM"
-      artist: "parkbreezy X TF Marz"
-
+    - title: "Melo.Nade"
+      startTime: "17:00"
+      participantNames:
+      - "Melo.Nade"
+    - title: "Mraki"
+      startTime: "18:00"
+      participantNames:
+      - "Mraki"
+    - title: "Rosso"
+      startTime: "19:00"
+      participantNames:
+      - "Rosso"
+    - title: "Barisone"
+      startTime: "20:00"
+      participantNames:
+      - "Barisone"
+    - title: "Lex Amor"
+      startTime: "21:30"
+      participantNames:
+      - "Lex Amor"
+    - title: "Major League DJZ"
+      startTime: "22:30"
+      participantNames:
+      - "Major League DJZ"
+    - title: "Channel Tres (DJ Set)"
+      startTime: "00:00"
+      participantNames:
+      - "Channel Tres"
+    - title: "Justin Martin"
+      startTime: "01:15"
+      participantNames:
+      - "Justin Martin"
+    - title: "Christian Loffler"
+      startTime: "02:30"
+      participantNames:
+      - "Christian Loffler"
+    - title: "Emancipator"
+      startTime: "04:00"
+      participantNames:
+      - "Emancipator"
+    - title: "parkbreezy X TF Marz"
+      startTime: "05:30"
+      endTime: "07:00"
+      participantNames:
+      - "parkbreezy X TF Marz"
 
   Living Room:
-    - time: "12:00 PM"
-      artist: "Dubconcious"
-
-    - time: "1:00 PM"
-      artist: "Illexxandra"
-
-    - time: "2:00 PM"
-      artist: "DJ Shakey"
-
-    - time: "3:00 PM"
-      artist: "CHIXY GUAP"
-
-    - time: "4:00 PM"
-      artist: "Handsome Tiger"
-
-    - time: "5:00 PM"
-      artist: "Player Dave"
-
-    - time: "6:15 PM"
-      artist: "Moontricks"
-
-    - time: "7:30 PM"
-      artist: "An-Ten-Nae"
-
-    - time: "8:30 PM"
-      artist: "Mat the Alien"
-
-    - time: "9:30 PM"
-      artist: "Honeycomb"
-
-    - time: "10:30 PM"
-      artist: "1tbsp"
-
-    - time: "11:30 PM"
-      artist: "Bianca Oblivion"
-
-    - time: "1:00 AM"
-      artist: "JUBILEE"
-
-    - time: "2:30 AM"
-      artist: "Pocket"
-
-    - time: "3:45 AM"
-      artist: "Shiny Things"
-
-    - time: "5:00 AM"
-      artist: "BOGL"
-
-    - time: "6:30 AM"
-      endTime: "9:00 AM"
-      artist: "Lion S"
+    - title: "Dubconcious"
+      startTime: "12:00"
+      participantNames:
+      - "Dubconcious"
+    - title: "Illexxandra"
+      startTime: "13:00"
+      participantNames:
+      - "Illexxandra"
+    - title: "DJ Shakey"
+      startTime: "14:00"
+      participantNames:
+      - "DJ Shakey"
+    - title: "CHIXY GUAP"
+      startTime: "15:00"
+      participantNames:
+      - "CHIXY GUAP"
+    - title: "Handsome Tiger"
+      startTime: "16:00"
+      participantNames:
+      - "Handsome Tiger"
+    - title: "Player Dave"
+      startTime: "17:00"
+      participantNames:
+      - "Player Dave"
+    - title: "Moontricks"
+      startTime: "18:15"
+      participantNames:
+      - "Moontricks"
+    - title: "An-Ten-Nae"
+      startTime: "19:30"
+      participantNames:
+      - "An-Ten-Nae"
+    - title: "Mat the Alien"
+      startTime: "20:30"
+      participantNames:
+      - "Mat the Alien"
+    - title: "Honeycomb"
+      startTime: "21:30"
+      participantNames:
+      - "Honeycomb"
+    - title: "1tbsp"
+      startTime: "22:30"
+      participantNames:
+      - "1tbsp"
+    - title: "Bianca Oblivion"
+      startTime: "23:30"
+      participantNames:
+      - "Bianca Oblivion"
+    - title: "JUBILEE"
+      startTime: "01:00"
+      participantNames:
+      - "JUBILEE"
+    - title: "Pocket"
+      startTime: "02:30"
+      participantNames:
+      - "Pocket"
+    - title: "Shiny Things"
+      startTime: "03:45"
+      participantNames:
+      - "Shiny Things"
+    - title: "BOGL"
+      startTime: "05:00"
+      participantNames:
+      - "BOGL"
+    - title: "Lion S"
+      startTime: "06:30"
+      endTime: "09:00"
+      participantNames:
+      - "Lion S"
 
   Pagoda:
-    - time: "3:30 PM"
-      artist: "Average Citizens"
-
-    - time: "4:30 PM"
-      artist: "Trip A with Sam Matthews"
-
-    - time: "5:30 PM"
-      artist: "Kurei"
-
-    - time: "6:30 PM"
-      artist: "Walschlager"
-
-    - time: "7:30 PM"
-      artist: "Jon Casey"
-
-    - time: "8:45 PM"
-      artist: "YDG"
-
-    - time: "10:00 PM"
-      endTime: "11:25 PM"
-      artist: "Levity"
-
-    - time: "11:30 PM"
-      artist: "Rezz"
-
-    - time: "12:45 AM"
-      artist: "Tape B"
-
-    - time: "1:45 AM"
-      artist: "Mersiv"
-
-    - time: "2:45 AM"
-      artist: "?????? ??? ?????"
-
-    - time: "3:45 AM"
-      artist: "Eater"
-
-    - time: "4:45 AM"
-      endTime: "6:00 AM"
-      artist: "Prayer Handz"
+    - title: "Average Citizens"
+      startTime: "15:30"
+      participantNames:
+      - "Average Citizens"
+    - title: "Trip A with Sam Matthews"
+      startTime: "16:30"
+      participantNames:
+      - "Trip A with Sam Matthews"
+    - title: "Kurei"
+      startTime: "17:30"
+      participantNames:
+      - "Kurei"
+    - title: "Walschlager"
+      startTime: "18:30"
+      participantNames:
+      - "Walschlager"
+    - title: "Jon Casey"
+      startTime: "19:30"
+      participantNames:
+      - "Jon Casey"
+    - title: "YDG"
+      startTime: "20:45"
+      participantNames:
+      - "YDG"
+    - title: "Levity"
+      startTime: "22:00"
+      endTime: "23:25"
+      participantNames:
+      - "Levity"
+    - title: "Rezz"
+      startTime: "23:30"
+      participantNames:
+      - "Rezz"
+    - title: "Tape B"
+      startTime: "00:45"
+      participantNames:
+      - "Tape B"
+    - title: "Mersiv"
+      startTime: "01:45"
+      participantNames:
+      - "Mersiv"
+    - title: "?????? ??? ?????"
+      startTime: "02:45"
+      participantNames:
+      - "?????? ??? ?????"
+    - title: "Eater"
+      startTime: "03:45"
+      participantNames:
+      - "Eater"
+    - title: "Prayer Handz"
+      startTime: "04:45"
+      endTime: "06:00"
+      participantNames:
+      - "Prayer Handz"
 
   Village:
-    - time: "5:00 PM"
-      artist: "DLB B2B Trevor Galore"
+    - title: "DLB B2B Trevor Galore"
+      startTime: "17:00"
+      participantNames:
+      - "DLB B2B Trevor Galore"
+    - title: "Fully Tilted"
+      startTime: "18:00"
+      participantNames:
+      - "Fully Tilted"
+    - title: "Tiny Dancer"
+      startTime: "19:00"
+      participantNames:
+      - "Tiny Dancer"
+    - title: "Ill.Gates"
+      startTime: "20:00"
+      participantNames:
+      - "Ill.Gates"
+    - title: "Super Future"
+      startTime: "21:00"
+      participantNames:
+      - "Super Future"
+    - title: "Koven"
+      startTime: "22:00"
+      participantNames:
+      - "Koven"
+    - title: "Andy C"
+      startTime: "23:00"
+      participantNames:
+      - "Andy C"
+    - title: "ILLENIUM"
+      startTime: "00:30"
+      participantNames:
+      - "ILLENIUM"
+    - title: "Wooli"
+      startTime: "02:00"
+      participantNames:
+      - "Wooli"
+    - title: "Dirt Monkey"
+      startTime: "03:00"
+      participantNames:
+      - "Dirt Monkey"
+    - title: "Tha Funk Junkie"
+      startTime: "04:00"
+      endTime: "05:30"
+      participantNames:
+      - "Tha Funk Junkie"
 
-    - time: "6:00 PM"
-      artist: "Fully Tilted"
-
-    - time: "7:00 PM"
-      artist: "Tiny Dancer"
-
-    - time: "8:00 PM"
-      artist: "Ill.Gates"
-
-    - time: "9:00 PM"
-      artist: "Super Future"
-
-    - time: "10:00 PM"
-      artist: "Koven"
-
-    - time: "11:00 PM"
-      artist: "Andy C"
-
-    - time: "12:30 AM"
-      artist: "ILLENIUM"
-
-    - time: "2:00 AM"
-      artist: "Wooli"
-
-    - time: "3:00 AM"
-      artist: "Dirt Monkey"
-
-    - time: "4:00 AM"
-      endTime: "5:30 AM"
-      artist: "Tha Funk Junkie"
-
-
-  Secret Garden: 
-    - time: "10:30 AM"
-      title: "Mindful Moon Sound Healing"
-      artist: "Quinton and Kendra Armstrong"
-
-    - time: "12:00 PM"
-      title: "Ascend - Acstatic Yoga with Matthew Yausie"
-      artist: "Matthew Yausie"
-
-    - time: "1:15 PM"
-      endtime: "2:30 PM"
-      title: "Soften Your Senses - Blindfolded Yoga with Brenna Bote"
-      artist: "Brenna Bote"
-
-    - time: "3:00 PM"
-      artist: "Creek St."
-
-    - time: "4:00 PM"
-      title: "Assomatic Release Twerkshop with Troy Story 3"
-      artist: "Troy Story 3"
-
-    - time: "5:30 PM"
-      title: "Sacred Plant Medicines with Evolved Alchemy"
-      artist: "Warren Ji"
-
-    - time: "7:00 PM"
-      title: "Warrior Qi Gong with Shakya"
-      artist: "Shakya"
-
-    - time: "9:00 PM"
-      artist: "BiiSHoP"
-
-    - time: "10:30 PM"
-      artist: "Crimson"
-
-    - time: "12:00 AM"
-      artist: "Chrome Wolves"
-
-    - time: "1:30 AM"
-      artist: "PRSN"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Leland River"
+  Secret Garden:
+    - title: "Mindful Moon Sound Healing"
+      startTime: "10:30"
+      participantNames:
+      - "Quinton and Kendra Armstrong"
+    - title: "Ascend - Acstatic Yoga with Matthew Yausie"
+      startTime: "12:00"
+      participantNames:
+      - "Matthew Yausie"
+    - title: "Soften Your Senses - Blindfolded Yoga with Brenna Bote"
+      startTime: "13:15"
+      participantNames:
+      - "Brenna Bote"
+    - title: "Creek St."
+      startTime: "15:00"
+      participantNames:
+      - "Creek St."
+    - title: "Assomatic Release Twerkshop with Troy Story 3"
+      startTime: "16:00"
+      participantNames:
+      - "Troy Story 3"
+    - title: "Sacred Plant Medicines with Evolved Alchemy"
+      startTime: "17:30"
+      participantNames:
+      - "Warren Ji"
+    - title: "Warrior Qi Gong with Shakya"
+      startTime: "19:00"
+      participantNames:
+      - "Shakya"
+    - title: "BiiSHoP"
+      startTime: "21:00"
+      participantNames:
+      - "BiiSHoP"
+    - title: "Crimson"
+      startTime: "22:30"
+      participantNames:
+      - "Crimson"
+    - title: "Chrome Wolves"
+      startTime: "00:00"
+      participantNames:
+      - "Chrome Wolves"
+    - title: "PRSN"
+      startTime: "01:30"
+      participantNames:
+      - "PRSN"
+    - title: "Leland River"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Leland River"

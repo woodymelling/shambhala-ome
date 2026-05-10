@@ -1,274 +1,342 @@
+date: "2024-07-27"
 performances:
   Ampitheatre:
-    - time: "3:30 PM"
-      title: "Afternoon Saloon with Marin & Friends"
-      artist: "Marin & Friends"
-
-    - time: "5:00 PM"
-      artist: "Marah"
-
-    - time: "6:00 PM"
-      artist: "Zen Selektah"
-
-    - time: "7:00 PM"
-      artist: "Veil"
-
-    - time: "8:00 PM"
-      artist: "Mythm"
-
-    - time: "9:00 PM"
-      artist: "Ternion Sound"
-
-    - time: "10:30 PM"
-      artist: "Truth"
-
-    - time: "12:00 AM"
-      artist: "Peekaboo"
-
-    - time: "1:30 AM"
-      artist: "G Jones"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Eprom"
+    - title: "Afternoon Saloon with Marin & Friends"
+      startTime: "15:30"
+      participantNames:
+      - "Marin & Friends"
+    - title: "Marah"
+      startTime: "17:00"
+      participantNames:
+      - "Marah"
+    - title: "Zen Selektah"
+      startTime: "18:00"
+      participantNames:
+      - "Zen Selektah"
+    - title: "Veil"
+      startTime: "19:00"
+      participantNames:
+      - "Veil"
+    - title: "Mythm"
+      startTime: "20:00"
+      participantNames:
+      - "Mythm"
+    - title: "Ternion Sound"
+      startTime: "21:00"
+      participantNames:
+      - "Ternion Sound"
+    - title: "Truth"
+      startTime: "22:30"
+      participantNames:
+      - "Truth"
+    - title: "Peekaboo"
+      startTime: "00:00"
+      participantNames:
+      - "Peekaboo"
+    - title: "G Jones"
+      startTime: "01:30"
+      participantNames:
+      - "G Jones"
+    - title: "Eprom"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Eprom"
 
   Fractal Forest:
-    - time: "5:00 PM"
-      artist: "Jgirl & Manousos"
-
-    - time: "6:00 PM"
-      artist: "Fattycakes"
-
-    - time: "7:00 PM"
-      artist: "DJ Lefy"
-
-    - time: "8:00 PM"
-      artist: "The Gaff"
-
-    - time: "9:00 PM"
-      artist: "Slynk"
-
-    - time: "10:00 PM"
-      artist: "Smalltown DJs"
-
-    - time: "11:00 PM"
-      artist: "DJ Pee Wee"
-      title: "Anderson Paak All Vinyl Set"
-
-    - time: "12:00 AM"
-      artist: "Z-Trip"
-
-    - time: "1:00 AM"
-      artist: "A.Skillz"
-
-    - time: "2:00 AM"
-      artist: "Stanton Warriors"
-
-    - time: "3:00 AM"
-      artist: "Fort Knox Five & Qdup"
-
-    - time: "4:00 AM"
-      artist: "Father Funk"
-
-    - time: "5:00 AM"
-      endTime: "6:30 AM"
-      artist: "Neighbour"
+    - title: "Jgirl & Manousos"
+      startTime: "17:00"
+      participantNames:
+      - "Jgirl & Manousos"
+    - title: "Fattycakes"
+      startTime: "18:00"
+      participantNames:
+      - "Fattycakes"
+    - title: "DJ Lefy"
+      startTime: "19:00"
+      participantNames:
+      - "DJ Lefy"
+    - title: "The Gaff"
+      startTime: "20:00"
+      participantNames:
+      - "The Gaff"
+    - title: "Slynk"
+      startTime: "21:00"
+      participantNames:
+      - "Slynk"
+    - title: "Smalltown DJs"
+      startTime: "22:00"
+      participantNames:
+      - "Smalltown DJs"
+    - title: "Anderson Paak All Vinyl Set"
+      startTime: "23:00"
+      participantNames:
+      - "DJ Pee Wee"
+    - title: "Z-Trip"
+      startTime: "00:00"
+      participantNames:
+      - "Z-Trip"
+    - title: "A.Skillz"
+      startTime: "01:00"
+      participantNames:
+      - "A.Skillz"
+    - title: "Stanton Warriors"
+      startTime: "02:00"
+      participantNames:
+      - "Stanton Warriors"
+    - title: "Fort Knox Five & Qdup"
+      startTime: "03:00"
+      participantNames:
+      - "Fort Knox Five & Qdup"
+    - title: "Father Funk"
+      startTime: "04:00"
+      participantNames:
+      - "Father Funk"
+    - title: "Neighbour"
+      startTime: "05:00"
+      endTime: "06:30"
+      participantNames:
+      - "Neighbour"
 
   Grove:
-    - time: "3:00 PM"
-      artist: "Rosso"
+    - title: "Rosso"
+      startTime: "15:00"
+      participantNames:
+      - "Rosso"
+    - title: "Pxlmntrees"
+      startTime: "16:15"
+      participantNames:
+      - "Pxlmntrees"
+    - title: "Def3"
+      startTime: "17:30"
+      participantNames:
+      - "Def3"
+    - title: "Leland River"
+      startTime: "18:45"
+      participantNames:
+      - "Leland River"
+    - title: "TF Marz B2B Parkbreezy"
+      startTime: "20:00"
+      participantNames:
+      - "TF Marz"
+      - "Parkbreezy"
+    - title: "Oakk"
+      startTime: "21:30"
+      participantNames:
+      - "Oakk"
+    - title: "El-B"
+      startTime: "22:45"
+      participantNames:
+      - "El-B"
+    - title: "Kamauu"
+      startTime: "00:00"
+      participantNames:
+      - "Kamauu"
+    - title: "James Blake (DJ Set)"
+      startTime: "01:00"
+      participantNames:
+      - "James Blake (DJ Set)"
+    - title: "Shlohmo"
+      startTime: "02:30"
+      participantNames:
+      - "Shlohmo"
+    - title: "Mystic State"
+      startTime: "04:00"
+      participantNames:
+      - "Mystic State"
+    - title: "Barisone"
+      startTime: "05:15"
+      endTime: "06:30"
+      participantNames:
+      - "Barisone"
 
-    - time: "4:15 PM"
-      artist: "Pxlmntrees"
-
-    - time: "5:30 PM"
-      artist: "Def3"
-
-    - time: "6:45 PM"
-      artist: "Leland River"
-
-    - time: "8:00 PM"
-      title: "TF Marz B2B Parkbreezy"
-      artists: 
-        - "TF Marz"
-        - "Parkbreezy" 
-
-    - time: "9:30 PM"
-      artist: "Oakk"
-
-    - time: "10:45 PM"
-      artist: "El-B"
-
-    - time: "12:00 AM"
-      artist: "Kamauu"
-
-    - time: "1:00 AM"
-      artist: "James Blake (DJ Set)"
-
-    - time: "2:30 AM"
-      artist: "Shlohmo"
-
-    - time: "4:00 AM"
-      artist: "Mystic State"
-
-    - time: "5:15 AM"
-      endTime: "6:30 AM"
-      artist: "Barisone"
-
-  Living Room: 
-    - time: "12:00 PM"
-      artist: "Alissa Arnason"
-
-    - time: "1:00 PM"
-      artist: "Monkey Twerk"
-
-    - time: "2:30 PM"
-      artist: "Shawna (KMNL)"
-
-    - time: "4:00 PM"
-      artist: "Lion-S"
-
-    - time: "5:00 PM"
-      artist: "Saturna"
-
-    - time: "6:00 PM"
-      artist: "Tipper"
-
-    - time: "7:00 PM"
-      artist: "Pleasensations"
-
-    - time: "8:30 PM"
-      artist: "Kinshira"
-
-    - time: "9:00 PM"
-      artist: "Astrocolor"
-
-    - time: "10:30 PM"
-      artist: "Lion Babe"
-
-    - time: "12:00 AM"
-      artist: "Moontricks"
-
-    - time: "1:30 AM"
-      artist: "Everyman & Joaqoepelli"
-
-    - time: "2:00 AM"
-      endTime: "3:30 AM"
-      title: "Dirtwire"
+  Living Room:
+    - title: "Alissa Arnason"
+      startTime: "12:00"
+      participantNames:
+      - "Alissa Arnason"
+    - title: "Monkey Twerk"
+      startTime: "13:00"
+      participantNames:
+      - "Monkey Twerk"
+    - title: "Shawna (KMNL)"
+      startTime: "14:30"
+      participantNames:
+      - "Shawna (KMNL)"
+    - title: "Lion-S"
+      startTime: "16:00"
+      participantNames:
+      - "Lion-S"
+    - title: "Saturna"
+      startTime: "17:00"
+      participantNames:
+      - "Saturna"
+    - title: "Tipper"
+      startTime: "18:00"
+      participantNames:
+      - "Tipper"
+    - title: "Pleasensations"
+      startTime: "19:00"
+      participantNames:
+      - "Pleasensations"
+    - title: "Kinshira"
+      startTime: "20:30"
+      participantNames:
+      - "Kinshira"
+    - title: "Astrocolor"
+      startTime: "21:00"
+      participantNames:
+      - "Astrocolor"
+    - title: "Lion Babe"
+      startTime: "22:30"
+      participantNames:
+      - "Lion Babe"
+    - title: "Moontricks"
+      startTime: "00:00"
+      participantNames:
+      - "Moontricks"
+    - title: "Everyman & Joaqoepelli"
+      startTime: "01:30"
+      participantNames:
+      - "Everyman & Joaqoepelli"
+    - title: "Dirtwire"
+      startTime: "02:00"
+      endTime: "03:30"
 
   Pagoda:
-    - time: "3:30 PM"
-      artist: "Just-B"
-
-    - time: "4:30 PM"
-      artist: "Bray"
-
-    - time: "5:30 PM"
-      artist: "Redword"
-
-    - time: "6:30 PM"
-      artist: "Sintra"
-
-    - time: "7:30 PM"
-      title: "Mikey Lion B2B DJ Soup"
-      artists: 
-        - "Mikey Lion"
-        - "DJ Soup"
-
-    - time: "9:00 PM"
-      artist: "Bodysync"
-
-    - time: "10:15 PM"
-      title: "Totally Enormous Extinct Dinosaurs (DJ Set)"
-      artist: "Totally Enormous Extinct Dinosaurs"
-
-    - time: "11:30 PM"
-      title: "Disclosure (DJ Set)"
-      artist: "Disclosure"
-
-    - time: "1:00 AM"
-      artist: "Disco Lines"
-
-    - time: "2:15 AM"
-      artist: "Max Styler"
-
-    - time: "3:30 AM"
-      artist: "Funkin Matt"
-
-    - time: "4:45 AM"
-      endTime: "6:00 AM"
-      artist: "Law"
+    - title: "Just-B"
+      startTime: "15:30"
+      participantNames:
+      - "Just-B"
+    - title: "Bray"
+      startTime: "16:30"
+      participantNames:
+      - "Bray"
+    - title: "Redword"
+      startTime: "17:30"
+      participantNames:
+      - "Redword"
+    - title: "Sintra"
+      startTime: "18:30"
+      participantNames:
+      - "Sintra"
+    - title: "Mikey Lion B2B DJ Soup"
+      startTime: "19:30"
+      participantNames:
+      - "Mikey Lion"
+      - "DJ Soup"
+    - title: "Bodysync"
+      startTime: "21:00"
+      participantNames:
+      - "Bodysync"
+    - title: "Totally Enormous Extinct Dinosaurs (DJ Set)"
+      startTime: "22:15"
+      participantNames:
+      - "Totally Enormous Extinct Dinosaurs"
+    - title: "Disclosure (DJ Set)"
+      startTime: "23:30"
+      participantNames:
+      - "Disclosure"
+    - title: "Disco Lines"
+      startTime: "01:00"
+      participantNames:
+      - "Disco Lines"
+    - title: "Max Styler"
+      startTime: "02:15"
+      participantNames:
+      - "Max Styler"
+    - title: "Funkin Matt"
+      startTime: "03:30"
+      participantNames:
+      - "Funkin Matt"
+    - title: "Law"
+      startTime: "04:45"
+      endTime: "06:00"
+      participantNames:
+      - "Law"
 
   Village:
-    - time: "6:00 PM"
-      title: "DNB Girls Takeover Hosted by Crystal Fresh"
-      artists:
-        - "Aversive"
-        - "Crystal Fresh"
-        - "Distinct"
-        - "Endzyme"
-        - "K-Stylez"
-        - "KID-Dee"
-        - "Lozen"
-        - "Miss Fudge"
-        - "Mittz"
-
-    - time: "8:30 PM"
-      artist: "Triple XL"
-
-    - time: "9:30 PM"
-      artist: "Phibes"
-
-    - time: "10:30 PM"
-      artist: "Georgie Riot w/ Armanni Reign"
-
-    - time: "11:30 PM"
-      artist: "Hedex"
-
-    - time: "12:30 AM"
-      artist: "Ganja White Night"
-
-    - time: "2:00 AM"
-      artist: "Party Favor"
-
-    - time: "3:30 AM"
-      endTime: "6:00 AM"
-      title: "The Chillage"
-      artists:
-        - "ill.Gates"
-        - "Mr. Bill"
-        - "Shmansi"
-        - "SlowForm"
+    - title: "DNB Girls Takeover Hosted by Crystal Fresh"
+      startTime: "18:00"
+      participantNames:
+      - "Aversive"
+      - "Crystal Fresh"
+      - "Distinct"
+      - "Endzyme"
+      - "K-Stylez"
+      - "KID-Dee"
+      - "Lozen"
+      - "Miss Fudge"
+      - "Mittz"
+    - title: "Triple XL"
+      startTime: "20:30"
+      participantNames:
+      - "Triple XL"
+    - title: "Phibes"
+      startTime: "21:30"
+      participantNames:
+      - "Phibes"
+    - title: "Georgie Riot w/ Armanni Reign"
+      startTime: "22:30"
+      participantNames:
+      - "Georgie Riot w/ Armanni Reign"
+    - title: "Hedex"
+      startTime: "23:30"
+      participantNames:
+      - "Hedex"
+    - title: "Ganja White Night"
+      startTime: "00:30"
+      participantNames:
+      - "Ganja White Night"
+    - title: "Party Favor"
+      startTime: "02:00"
+      participantNames:
+      - "Party Favor"
+    - title: "The Chillage"
+      startTime: "03:30"
+      endTime: "06:00"
+      participantNames:
+      - "ill.Gates"
+      - "Mr. Bill"
+      - "Shmansi"
+      - "SlowForm"
 
   Secret Garden:
-    - time: "11:00 AM"
-      artist: "Kali Yoga Flow"
-      title: "Danya Bliuc"
-
-    - time: "12:30 PM"
-      artist: "Transformational Reset Yoga"
-      title: "Matthew Vause"
-
-    - time: "2:00 PM"
-      artist: "Documentary Storytelling"
-      title: "Daniel Pierce"
-
-    - time: "3:30 PM"
-      endTime: "5:00 PM"
-      artist: "Astro Herbalism House of Origins"
-
-    - time: "9:00 PM"
-      artist: "Kellan It"
-
-    - time: "10:30 PM"
-      artist: "Mr. Wu"
-
-    - time: "12:00 AM"
-      artist: "Ashez"
-
-    - time: "1:30 AM"
-      artist: "Runeky"
-
-    - time: "3:00 AM"
-      endTime: "4:30 AM"
-      artist: "Fabula"
+    - title: "Danya Bliuc"
+      startTime: "11:00"
+      participantNames:
+      - "Kali Yoga Flow"
+    - title: "Matthew Vause"
+      startTime: "12:30"
+      participantNames:
+      - "Transformational Reset Yoga"
+    - title: "Daniel Pierce"
+      startTime: "14:00"
+      participantNames:
+      - "Documentary Storytelling"
+    - title: "Astro Herbalism House of Origins"
+      startTime: "15:30"
+      endTime: "17:00"
+      participantNames:
+      - "Astro Herbalism House of Origins"
+    - title: "Kellan It"
+      startTime: "21:00"
+      participantNames:
+      - "Kellan It"
+    - title: "Mr. Wu"
+      startTime: "22:30"
+      participantNames:
+      - "Mr. Wu"
+    - title: "Ashez"
+      startTime: "00:00"
+      participantNames:
+      - "Ashez"
+    - title: "Runeky"
+      startTime: "01:30"
+      participantNames:
+      - "Runeky"
+    - title: "Fabula"
+      startTime: "03:00"
+      endTime: "04:30"
+      participantNames:
+      - "Fabula"

@@ -1,73 +1,99 @@
+date: "2025-07-24"
 performances:
   Ampitheatre:
-    - time: "12:00 PM"
-      artist: "S2"
-      
-    - time: "1:00 PM"
-      artist: "Great Dane"
-      
-    - time: "2:00 PM"
-      artist: "Casey Club"
-      
-    - time: "3:00 PM"
-      artist: "MNTRA"
-      
-    - time: "4:00 PM"
-      artist: "Skiitour"
-      
-    - time: "5:30 PM"
-      artist: "Amp Live"
-      
-    - time: "6:30 PM"
-      artist: "Josh Teed"
-      
-    - time: "7:30 PM"
-      artist: "Gunfingaz"
-      
-    - time: "9:00 PM"
-      artist: "Effin"
-      
-    - time: "10:15 PM"
-      artist: "Phrva"
-      
-    - time: "11:30 PM"
-      artist: "borne"
-      
-    - time: "1:00 AM"
-      endTime: "2:30 AM"
-      artist: "Longwalkshortdock"
+    - title: "S2"
+      startTime: "12:00"
+      participantNames:
+      - "S2"
+    - title: "Great Dane"
+      startTime: "13:00"
+      participantNames:
+      - "Great Dane"
+    - title: "Casey Club"
+      startTime: "14:00"
+      participantNames:
+      - "Casey Club"
+    - title: "MNTRA"
+      startTime: "15:00"
+      participantNames:
+      - "MNTRA"
+    - title: "Skiitour"
+      startTime: "16:00"
+      participantNames:
+      - "Skiitour"
+    - title: "Amp Live"
+      startTime: "17:30"
+      participantNames:
+      - "Amp Live"
+    - title: "Josh Teed"
+      startTime: "18:30"
+      participantNames:
+      - "Josh Teed"
+    - title: "Gunfingaz"
+      startTime: "19:30"
+      participantNames:
+      - "Gunfingaz"
+    - title: "Effin"
+      startTime: "21:00"
+      participantNames:
+      - "Effin"
+    - title: "Phrva"
+      startTime: "22:15"
+      participantNames:
+      - "Phrva"
+    - title: "borne"
+      startTime: "23:30"
+      participantNames:
+      - "borne"
+    - title: "Longwalkshortdock"
+      startTime: "01:00"
+      endTime: "02:30"
+      participantNames:
+      - "Longwalkshortdock"
 
   Living Room:
-    - time: "12:00 PM"
-      artist: "Hoola"
-      
-    - time: "1:00 PM"
-      artist: "Sunny Acres"
-      
-    - time: "2:30 PM"
-      artist: "Spanda"
-      
-    - time: "4:00 PM"
-      artist: "Meowmix"
-
-    - time: "5:30 PM"
-      artist: "Gabby Haze"
-      
-    - time: "6:45 PM"
-      artist: "Donna Dada"
-      
-    - time: "8:15 PM"
-      artist: "The Shameless"
-      
-    - time: "8:30 PM"
-      artist: "Adham Shaikh"
-      
-    - time: "9:30 PM"
-      artist: "SNOW RAVEN"
-      
-    - time: "11:00 PM"
-      artist: "Shawna (KMLN)"
-      
-    - time: "12:30 AM"
-      endTime: "2:30 AM"
-      artist: "Gavin Hardkiss"
+    - title: "Hoola"
+      startTime: "12:00"
+      participantNames:
+      - "Hoola"
+    - title: "Sunny Acres"
+      startTime: "13:00"
+      participantNames:
+      - "Sunny Acres"
+    - title: "Spanda"
+      startTime: "14:30"
+      participantNames:
+      - "Spanda"
+    - title: "Meowmix"
+      startTime: "16:00"
+      participantNames:
+      - "Meowmix"
+    - title: "Gabby Haze"
+      startTime: "17:30"
+      participantNames:
+      - "Gabby Haze"
+    - title: "Donna Dada"
+      startTime: "18:45"
+      participantNames:
+      - "Donna Dada"
+    - title: "The Shameless"
+      startTime: "20:15"
+      participantNames:
+      - "The Shameless"
+    - title: "Adham Shaikh"
+      startTime: "20:30"
+      participantNames:
+      - "Adham Shaikh"
+    - title: "SNOW RAVEN"
+      startTime: "21:30"
+      participantNames:
+      - "SNOW RAVEN"
+    - title: "Shawna (KMLN)"
+      startTime: "23:00"
+      participantNames:
+      - "Shawna (KMLN)"
+    - title: "Gavin Hardkiss"
+      startTime: "00:30"
+      endTime: "02:30"
+      participantNames:
+      - "Gavin Hardkiss"
