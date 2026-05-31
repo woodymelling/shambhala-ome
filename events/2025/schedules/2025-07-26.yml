@@ -3,273 +3,273 @@ performances:
   Ampitheatre:
     - title: "Rave Runway Extravaganza Hosted by Freida Whales"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Rave Runway Extravaganza Hosted by Freida Whales"
     - title: "Athena"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Athena"
     - title: "KAIPORA"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "KAIPORA"
     - title: "INNOCENT"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "INNOCENT"
     - title: "Basura"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Basura"
     - title: "Torcha"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Torcha"
     - title: "Moody Good"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Moody Good"
     - title: "Caspa"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Caspa"
     - title: "Skream & Friends"
       startTime: "00:30"
       endTime: "09:00"
-      participantNames:
+      contributorNames:
       - "Skream & Friends"
 
   Fractal Forest:
     - title: "Island Haze"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Island Haze"
     - title: "Jgirl & Manousos"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Jgirl & Manousos"
     - title: "Farbsie Funk"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Farbsie Funk"
     - title: "Fattycakes"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Fattycakes"
     - title: "The Gaff"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "The Gaff"
     - title: "Joey Valence & Brae"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Joey Valence & Brae"
     - title: "Slynk"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Slynk"
     - title: "Neon Steve"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Neon Steve"
     - title: "Wuki"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Wuki"
     - title: "Krafty Kuts"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Krafty Kuts"
     - title: "A.SKILLZ"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "A.SKILLZ"
     - title: "Fort Knox Five & Qdup"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "Fort Knox Five & Qdup"
     - title: "Father Funk"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Father Funk"
     - title: "Neighbour"
       startTime: "05:00"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Neighbour"
 
   Grove:
     - title: "El Toro"
       startTime: "14:30"
-      participantNames:
+      contributorNames:
       - "El Toro"
     - title: "Lazy Syrup Orchestra"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "Lazy Syrup Orchestra"
     - title: "PXLMTREES"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "PXLMTREES"
     - title: "DEFIED"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "DEFIED"
     - title: "Lil Bones"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Lil Bones"
     - title: "Footprints"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Footprints"
     - title: "Acromada"
       startTime: "21:15"
-      participantNames:
+      contributorNames:
       - "Acromada"
     - title: "1-800 GIRLS"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "1-800 GIRLS"
     - title: "Mindchatter (DJ Set)"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Mindchatter"
     - title: "Mura Masa"
       startTime: "23:45"
-      participantNames:
+      contributorNames:
       - "Mura Masa"
     - title: "Flying Lotus"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Flying Lotus"
     - title: "Loefah"
       startTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Loefah"
     - title: "Chmura"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Chmura"
     - title: "Alex Moon"
       startTime: "05:15"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Alex Moon"
 
   Living Room:
     - title: "Marty Carter"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Marty Carter"
     - title: "Sijay James"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "Sijay James"
     - title: "Breakfluid"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Breakfluid"
     - title: "NASAYA"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "NASAYA"
     - title: "Fluxo"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Fluxo"
     - title: "EVeryman"
       startTime: "19:15"
-      participantNames:
+      contributorNames:
       - "EVeryman"
     - title: "Neil Jam3s"
       startTime: "19:45"
-      participantNames:
+      contributorNames:
       - "Neil Jam3s"
     - title: "Astrocolor"
       startTime: "20:45"
-      participantNames:
+      contributorNames:
       - "Astrocolor"
     - title: "Hoola"
       startTime: "22:15"
-      participantNames:
+      contributorNames:
       - "Hoola"
     - title: "Glass Beams"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Glass Beams"
     - title: "Elektric Collective with Hoola"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Elektric Collective"
       - "Hoola"
     - title: "Bob Moses (Club Set)"
       startTime: "00:15"
-      participantNames:
+      contributorNames:
       - "Bob Moses"
     - title: "Tomahawk Bang / Notorious Cree"
       startTime: "02:00"
       endTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Tomahawk Bang"
       - "Notorious Cree"
 
   Pagoda:
     - title: "T3MPR"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "T3MPR"
     - title: "AWood"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "AWood"
     - title: "STUND B2B Broken Future"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "STUND"
       - "Broken Future"
     - title: "Sivz"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "Sivz"
     - title: "Rohaan"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Rohaan"
     - title: "Duskus"
       startTime: "20:45"
-      participantNames:
+      contributorNames:
       - "Duskus"
     - title: "Ahadadream"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Ahadadream"
     - title: "Elderbrook (DJ Set)"
       startTime: "23:15"
-      participantNames:
+      contributorNames:
       - "Elderbrook"
     - title: "salute"
       startTime: "00:45"
-      participantNames:
+      contributorNames:
       - "salute"
     - title: "MPH"
       startTime: "02:15"
-      participantNames:
+      contributorNames:
       - "MPH"
     - title: "Justin Jay"
       startTime: "03:45"
-      participantNames:
+      contributorNames:
       - "Justin Jay"
     - title: "FATHER SON"
       startTime: "05:00"
       endTime: "06:00"
-      participantNames:
+      contributorNames:
       - "FATHER SON"
 
   Village:
     - title: "#WOMBTANG - Ladies DNB Takeover Hosted by Crystal Fresh"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Aversive"
       - "Cyncron"
       - "Distinct"
@@ -279,32 +279,32 @@ performances:
       - "Selectress"
     - title: "Triple XL"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Triple XL"
     - title: "Phibes"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Phibes"
     - title: "Kanine"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Kanine"
     - title: "Delta Heavy"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Delta Heavy"
     - title: "SLANDER"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "SLANDER"
     - title: "ALLEYCVT"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "ALLEYCVT"
     - title: "The Chillage"
       startTime: "03:30"
       endTime: "06:00"
-      participantNames:
+      contributorNames:
       - "Illexxandra"
       - "Def3"
       - "Oakum"
@@ -316,7 +316,7 @@ performances:
   Secret Garden:
     - title: "Restorative Qi Gong with Shakya"
       startTime: "10:30"
-      participantNames:
+      contributorNames:
       - "Shakya"
     - title: "Sound Healing with the Troy Story 3"
       startTime: "12:00"
@@ -324,39 +324,39 @@ performances:
       startTime: "13:30"
     - title: "Getting High on Your Own Supply"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "Gina Dukovnik"
     - title: "Hula Hoop Playshop with Amanda Panda"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Amanda Panda"
     - title: "Documentary Storytelling with Daniel Pierce"
       startTime: "18:00"
       endTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Daniel Pierce"
     - title: "MAE B"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "MAE B"
     - title: "Okiro"
       startTime: "21:45"
-      participantNames:
+      contributorNames:
       - "Okiro"
     - title: "Sundog"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Sundog"
     - title: "Alex Unger"
       startTime: "00:15"
-      participantNames:
+      contributorNames:
       - "Alex Unger"
     - title: "Paint Department"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Paint Department"
     - title: "ViraVira"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "ViraVira"

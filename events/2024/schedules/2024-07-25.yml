@@ -3,109 +3,109 @@ performances:
   Ampitheatre:
     - title: "S2"
       startTime: "12:00"
-      participantNames:
+      contributorNames:
       - "S2"
     - title: "Shrimpnose"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Shrimpnose"
     - title: "KLL SMTH"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "KLL SMTH"
     - title: "Pigeon Hole"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Pigeon Hole"
     - title: "Mr. Jennings"
       startTime: "16:15"
-      participantNames:
+      contributorNames:
       - "Mr. Jennings"
     - title: "Skiitour"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Skiitour"
     - title: "Ahee"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Ahee"
     - title: "Chmura"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Chmura"
     - title: "Tsuruda"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Tsuruda"
     - title: "PAV4N & Strategy"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "PAV4N & Strategy"
     - title: "The Caracal Project"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "The Caracal Project"
     - title: "Longwalkshortdock"
       startTime: "00:30"
       endTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Longwalkshortdock"
 
   Living Room:
     - title: "Marty Carter"
       startTime: "12:00"
-      participantNames:
+      contributorNames:
       - "Marty Carter"
     - title: "Everyman"
       startTime: "12:45"
-      participantNames:
+      contributorNames:
       - "Everyman"
     - title: "Binks"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Binks"
     - title: "Sistersun"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "Sistersun"
     - title: "Fort Knox Five"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Fort Knox Five"
     - title: "Ndidi Cascade & Powys HJ"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Ndidi Cascade & Powys HJ"
     - title: "Hoola"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Hoola"
     - title: "Soohan"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Soohan"
     - title: "Adham Shaikh"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Adham Shaikh"
     - title: "Meowmix"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Meowmix"
     - title: "Tone Ranger"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Tone Ranger"
     - title: "Fungineers"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Fungineers"
     - title: "Prayer Handz"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Prayer Handz"
     - title: "Joaqopelli"
       startTime: "02:00"
       endTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Joaqopelli"

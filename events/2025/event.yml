@@ -12,6 +12,6 @@ contactNumbers:
   title: "SOS Number"
   description: "This number will get you any one or all of our highly trained Medical, Fire Response, Security or Harm Reduction Teams."
 policies:
-  participants:
+  contributors:
     listing:
-      type: scheduleParticipants
+      type: scheduleContributors

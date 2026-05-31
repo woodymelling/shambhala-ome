@@ -3,99 +3,99 @@ performances:
   Ampitheatre:
     - title: "2TALL"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "2TALL"
     - title: "RatchaelBeats"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "RatchaelBeats"
     - title: "Mfinity"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Mfinity"
     - title: "OkayJake"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "OkayJake"
     - title: "Supertask"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Supertask"
     - title: "Resonant Language"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Resonant Language"
     - title: "WHIPPED CREAM"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "WHIPPED CREAM"
     - title: "TroyBoi"
       startTime: "00:15"
-      participantNames:
+      contributorNames:
       - "TroyBoi"
     - title: "SHADES"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "SHADES"
     - title: "Kursa"
       startTime: "03:00"
       endTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Kursa"
 
   Fractal Forest:
     - title: "Freddy J"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Freddy J"
     - title: "Underdog"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Underdog"
     - title: "Burchill"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Burchill"
     - title: "Mood Swing & Chevy Bass ft. Wilma"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Mood Swing & Chevy Bass ft. Wilma"
     - title: "K+Lab"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "K+Lab"
     - title: "Stickybuds"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Stickybuds"
     - title: "Opiuo"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Opiuo"
     - title: "Big Gigantic (DJ Set)"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Big Gigantic"
     - title: "The Funk Hunters"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "The Funk Hunters"
     - title: "Smalltown DJs"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Smalltown DJs"
     - title: "No Thanks"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "No Thanks"
     - title: "Joanna Magik"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Joanna Magik"
     - title: "Joseph Martin"
       startTime: "05:00"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Joseph Martin"
 
   Grove:
@@ -103,60 +103,60 @@ performances:
       startTime: "13:00"
     - title: "Tor x Murge"
       startTime: "13:30"
-      participantNames:
+      contributorNames:
       - "Tor x Murge"
     - title: "JPOD"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "JPOD"
     - title: "Mood Change"
       startTime: "16:15"
-      participantNames:
+      contributorNames:
       - "Mood Change"
     - title: "Mother Mary"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Mother Mary"
     - title: "Skerd"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "Skerd"
     - title: "ASHEZ"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "ASHEZ"
     - title: "The Librarian"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "The Librarian"
     - title: "Sacred G's"
       startTime: "21:45"
-      participantNames:
+      contributorNames:
       - "Sacred G's"
     - title: "Ivy Lab"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Ivy Lab"
     - title: "Mia Koden"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Mia Koden"
     - title: "Dimond Saints"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Dimond Saints"
     - title: "Cartridge"
       startTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Cartridge"
     - title: "OAKK"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "OAKK"
     - title: "Saturna"
       startTime: "05:15"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Saturna"
 
   Living Room:
@@ -164,92 +164,92 @@ performances:
       startTime: "12:00"
     - title: "Foxy Moron"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Foxy Moron"
     - title: "Hoola & We Love Lamp Showcase"
       startTime: "14:30"
-      participantNames:
+      contributorNames:
       - "Hoola"
       - "We Love Lamp"
     - title: "Flipout"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Flipout"
     - title: "DJ KOCO AKA SHIMOKITA"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "DJ KOCO AKA SHIMOKITA"
     - title: "DJ Nu-Mark"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "DJ Nu-Mark"
     - title: "Moon Hooch"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Moon Hooch"
     - title: "DJ Heather"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "DJ Heather"
     - title: "Mark Farina"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Mark Farina"
     - title: "DJ Minx"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "DJ Minx"
     - title: "Lovefingers"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Lovefingers"
     - title: "Fleetmax Wood"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "Fleetmax Wood"
 
   Pagoda:
     - title: "Logan Hart"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Logan Hart"
     - title: "TKO"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "TKO"
     - title: "Case of the Mondays"
       startTime: "18:15"
-      participantNames:
+      contributorNames:
       - "Case of the Mondays"
     - title: "DJ SOUP"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "DJ SOUP"
     - title: "N2N"
       startTime: "20:45"
-      participantNames:
+      contributorNames:
       - "N2N"
     - title: "Eats Everything"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Eats Everything"
     - title: "Vintage Culture"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Vintage Culture"
     - title: "Chris Lake"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Chris Lake"
     - title: "Justin Martin"
       startTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Justin Martin"
     - title: "Destructo Sermon Set"
       startTime: "03:45"
       endTime: "06:00"
-      participantNames:
+      contributorNames:
       - "Destructo"
 
   Village:
@@ -257,77 +257,77 @@ performances:
       startTime: "15:00"
     - title: "Stylust"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Stylust"
     - title: "Armanni Reign"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Armanni Reign"
     - title: "Subvert w/ Armanni Reign"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Subvert w/ Armanni Reign"
     - title: "RIOT"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "RIOT"
     - title: "Excision"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "Excision"
     - title: "Bou"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Bou"
     - title: "Luude"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "Luude"
     - title: "Buddy & The Buffalo"
       startTime: "04:00"
       endTime: "05:30"
-      participantNames:
+      contributorNames:
       - "Buddy & The Buffalo"
 
   Secret Garden:
     - title: "Church of Central Raving"
       startTime: "13:30"
-      participantNames:
+      contributorNames:
       - "Church of Central Raving"
     - title: "Fly with Me Acro Yoga"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "John Early & Brenna Bote"
     - title: "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Inhabit Your Body in Contact Dance with Peta Thompson and Siovhan Williamson"
     - title: "Music, Healing, & The History of Dance Culture"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Music, Healing, & The History of Dance Culture"
     - title: "Cloak and Dagger"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Cloak and Dagger"
     - title: "Busy Patterns"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Busy Patterns"
     - title: "mr.b"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "mr.b"
     - title: "Civillian"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Civillian"
     - title: "pheel"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "pheel"
     - title: "Akiiba"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "Akiiba"

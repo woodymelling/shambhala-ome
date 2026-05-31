@@ -3,201 +3,201 @@ performances:
   Ampitheatre:
     - title: "Afternoon Saloon with Marin & Friends"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "Marin & Friends"
     - title: "Marah"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Marah"
     - title: "Zen Selektah"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Zen Selektah"
     - title: "Veil"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Veil"
     - title: "Mythm"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Mythm"
     - title: "Ternion Sound"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Ternion Sound"
     - title: "Truth"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Truth"
     - title: "Peekaboo"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Peekaboo"
     - title: "G Jones"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "G Jones"
     - title: "Eprom"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "Eprom"
 
   Fractal Forest:
     - title: "Jgirl & Manousos"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Jgirl & Manousos"
     - title: "Fattycakes"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Fattycakes"
     - title: "DJ Lefy"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "DJ Lefy"
     - title: "The Gaff"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "The Gaff"
     - title: "Slynk"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Slynk"
     - title: "Smalltown DJs"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Smalltown DJs"
     - title: "Anderson Paak All Vinyl Set"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "DJ Pee Wee"
     - title: "Z-Trip"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Z-Trip"
     - title: "A.Skillz"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "A.Skillz"
     - title: "Stanton Warriors"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Stanton Warriors"
     - title: "Fort Knox Five & Qdup"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "Fort Knox Five & Qdup"
     - title: "Father Funk"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Father Funk"
     - title: "Neighbour"
       startTime: "05:00"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Neighbour"
 
   Grove:
     - title: "Rosso"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Rosso"
     - title: "Pxlmntrees"
       startTime: "16:15"
-      participantNames:
+      contributorNames:
       - "Pxlmntrees"
     - title: "Def3"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Def3"
     - title: "Leland River"
       startTime: "18:45"
-      participantNames:
+      contributorNames:
       - "Leland River"
     - title: "TF Marz B2B Parkbreezy"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "TF Marz"
       - "Parkbreezy"
     - title: "Oakk"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Oakk"
     - title: "El-B"
       startTime: "22:45"
-      participantNames:
+      contributorNames:
       - "El-B"
     - title: "Kamauu"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Kamauu"
     - title: "James Blake (DJ Set)"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "James Blake (DJ Set)"
     - title: "Shlohmo"
       startTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Shlohmo"
     - title: "Mystic State"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Mystic State"
     - title: "Barisone"
       startTime: "05:15"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Barisone"
 
   Living Room:
     - title: "Alissa Arnason"
       startTime: "12:00"
-      participantNames:
+      contributorNames:
       - "Alissa Arnason"
     - title: "Monkey Twerk"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Monkey Twerk"
     - title: "Shawna (KMNL)"
       startTime: "14:30"
-      participantNames:
+      contributorNames:
       - "Shawna (KMNL)"
     - title: "Lion-S"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Lion-S"
     - title: "Saturna"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Saturna"
     - title: "Tipper"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Tipper"
     - title: "Pleasensations"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Pleasensations"
     - title: "Kinshira"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Kinshira"
     - title: "Astrocolor"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Astrocolor"
     - title: "Lion Babe"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Lion Babe"
     - title: "Moontricks"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Moontricks"
     - title: "Everyman & Joaqoepelli"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Everyman & Joaqoepelli"
     - title: "Dirtwire"
       startTime: "02:00"
@@ -206,59 +206,59 @@ performances:
   Pagoda:
     - title: "Just-B"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "Just-B"
     - title: "Bray"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Bray"
     - title: "Redword"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Redword"
     - title: "Sintra"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "Sintra"
     - title: "Mikey Lion B2B DJ Soup"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Mikey Lion"
       - "DJ Soup"
     - title: "Bodysync"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Bodysync"
     - title: "Totally Enormous Extinct Dinosaurs (DJ Set)"
       startTime: "22:15"
-      participantNames:
+      contributorNames:
       - "Totally Enormous Extinct Dinosaurs"
     - title: "Disclosure (DJ Set)"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Disclosure"
     - title: "Disco Lines"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Disco Lines"
     - title: "Max Styler"
       startTime: "02:15"
-      participantNames:
+      contributorNames:
       - "Max Styler"
     - title: "Funkin Matt"
       startTime: "03:30"
-      participantNames:
+      contributorNames:
       - "Funkin Matt"
     - title: "Law"
       startTime: "04:45"
       endTime: "06:00"
-      participantNames:
+      contributorNames:
       - "Law"
 
   Village:
     - title: "DNB Girls Takeover Hosted by Crystal Fresh"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Aversive"
       - "Crystal Fresh"
       - "Distinct"
@@ -270,32 +270,32 @@ performances:
       - "Mittz"
     - title: "Triple XL"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Triple XL"
     - title: "Phibes"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Phibes"
     - title: "Georgie Riot w/ Armanni Reign"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Georgie Riot w/ Armanni Reign"
     - title: "Hedex"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Hedex"
     - title: "Ganja White Night"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "Ganja White Night"
     - title: "Party Favor"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Party Favor"
     - title: "The Chillage"
       startTime: "03:30"
       endTime: "06:00"
-      participantNames:
+      contributorNames:
       - "ill.Gates"
       - "Mr. Bill"
       - "Shmansi"
@@ -304,39 +304,39 @@ performances:
   Secret Garden:
     - title: "Danya Bliuc"
       startTime: "11:00"
-      participantNames:
+      contributorNames:
       - "Kali Yoga Flow"
     - title: "Matthew Vause"
       startTime: "12:30"
-      participantNames:
+      contributorNames:
       - "Transformational Reset Yoga"
     - title: "Daniel Pierce"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "Documentary Storytelling"
     - title: "Astro Herbalism House of Origins"
       startTime: "15:30"
       endTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Astro Herbalism House of Origins"
     - title: "Kellan It"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Kellan It"
     - title: "Mr. Wu"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Mr. Wu"
     - title: "Ashez"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Ashez"
     - title: "Runeky"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Runeky"
     - title: "Fabula"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "Fabula"

@@ -3,99 +3,99 @@ performances:
   Ampitheatre:
     - title: "Kurei"
       startTime: "17:15"
-      participantNames:
+      contributorNames:
       - "Kurei"
     - title: "Secret Recipe"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "Secret Recipe"
     - title: "Hypho"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Hypho"
     - title: "DJ Co.kr"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "DJ Co.kr"
     - title: "Chef Boyarbeatz"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Chef Boyarbeatz"
     - title: "Flava D"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Flava D"
     - title: "Sammy Virji"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Sammy Virji"
     - title: "Gentlemens Club"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Gentlemens Club"
     - title: "Taiki Nulight"
       startTime: "03:00"
       endTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Taiki Nulight"
 
   Fractal Forest:
     - title: "Freddy J"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Freddy J"
     - title: "Underdog"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Underdog"
     - title: "DJ Hannah"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "DJ Hannah"
     - title: "Joanna Magik"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Joanna Magik"
     - title: "Maddy O'Neal"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Maddy O'Neal"
     - title: "LÜN"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "LÜN"
     - title: "Blu Detiger (DJ Set)"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Blu Detiger"
     - title: "Chromeo (DJ Set)"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Chromeo"
     - title: "The Funk Hunters"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "The Funk Hunters"
     - title: "Stickybuds"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "Stickybuds"
     - title: "Daily Bread"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Daily Bread"
     - title: "Rumpus"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "Rumpus"
     - title: "Burchill"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "Burchill"
     - title: "Joseph Martin"
       startTime: "05:00"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Joseph Martin"
 
   Grove:
@@ -103,64 +103,64 @@ performances:
       startTime: "13:00"
     - title: "Lazy Syrup Orchestra"
       startTime: "13:30"
-      participantNames:
+      contributorNames:
       - "Lazy Syrup Orchestra"
     - title: "Civillian"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Civillian"
     - title: "Mews"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Mews"
     - title: "Handsome Tiger"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Handsome Tiger"
     - title: "Sundog"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Sundog"
     - title: "Metafloor"
       startTime: "19:15"
-      participantNames:
+      contributorNames:
       - "Metafloor"
     - title: "Nina"
       startTime: "20:30"
-      participantNames:
+      contributorNames:
       - "Nina"
     - title: "Atyya"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Atyya"
     - title: "Acromada"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Acromada"
     - title: "Sicaria"
       startTime: "22:45"
-      participantNames:
+      contributorNames:
       - "Sicaria"
     - title: "Nia Archives"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Nia Archives"
     - title: "DBridge"
       startTime: "01:00"
-      participantNames:
+      contributorNames:
       - "DBridge"
     - title: "Synkro"
       startTime: "02:30"
-      participantNames:
+      contributorNames:
       - "Synkro"
     - title: "The Librarian"
       startTime: "04:00"
-      participantNames:
+      contributorNames:
       - "The Librarian"
     - title: "Goopsteppa"
       startTime: "05:45"
       endTime: "06:30"
-      participantNames:
+      contributorNames:
       - "Goopsteppa"
 
   Living Room:
@@ -168,111 +168,111 @@ performances:
       startTime: "12:00"
     - title: "Luxuryus"
       startTime: "13:00"
-      participantNames:
+      contributorNames:
       - "Luxuryus"
     - title: "Dubconscious"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "Dubconscious"
     - title: "Danni G"
       startTime: "15:00"
-      participantNames:
+      contributorNames:
       - "Danni G"
     - title: "Edit"
       startTime: "16:30"
-      participantNames:
+      contributorNames:
       - "Edit"
     - title: "Ooah"
       startTime: "17:30"
-      participantNames:
+      contributorNames:
       - "Ooah"
     - title: "El Papachango"
       startTime: "18:30"
-      participantNames:
+      contributorNames:
       - "El Papachango"
     - title: "Vhoor"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Vhoor"
     - title: "Honeydrip"
       startTime: "21:30"
-      participantNames:
+      contributorNames:
       - "Honeydrip"
     - title: "Amp Live"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Amp Live"
     - title: "Onhell"
       startTime: "23:30"
-      participantNames:
+      contributorNames:
       - "Onhell"
     - title: "The Glitch Mob"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "The Glitch Mob"
     - title: "Mary Droppinz"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Mary Droppinz"
     - title: "Antidote Collective"
       startTime: "03:00"
       endTime: "05:00"
-      participantNames:
+      contributorNames:
       - "Antidote Collective"
 
   Pagoda:
     - title: "Logan Hart"
       startTime: "16:00"
-      participantNames:
+      contributorNames:
       - "Logan Hart"
     - title: "Birdhaus"
       startTime: "17:00"
-      participantNames:
+      contributorNames:
       - "Birdhaus"
     - title: "Double Trouble"
       startTime: "18:00"
-      participantNames:
+      contributorNames:
       - "Double Trouble"
     - title: "Case of the Mondays"
       startTime: "19:15"
-      participantNames:
+      contributorNames:
       - "Case of the Mondays"
     - title: "Team Ezy"
       startTime: "20:15"
-      participantNames:
+      contributorNames:
       - "Team Ezy"
     - title: "Pagoda Grand Opening"
       startTime: "21:30"
     - title: "Kyle Watson"
       startTime: "21:45"
-      participantNames:
+      contributorNames:
       - "Kyle Watson"
     - title: "Justin Martin"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Justin Martin"
     - title: "Justin Martin B2B Chris Lorenzo"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Justin Martin"
       - "Chris Lorenzo"
     - title: "Chris Lorenzo"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "Chris Lorenzo"
     - title: "Matroda"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "Matroda"
     - title: "Dr. Fresch B2B Destructo"
       startTime: "02:45"
-      participantNames:
+      contributorNames:
       - "Dr. Fresch"
       - "Destructo"
     - title: "Ben Fox"
       startTime: "04:45"
       endTime: "05:30"
-      participantNames:
+      contributorNames:
       - "Ben Fox"
 
   Village:
@@ -280,78 +280,78 @@ performances:
       startTime: "15:00"
     - title: "Zipper"
       startTime: "19:00"
-      participantNames:
+      contributorNames:
       - "Zipper"
     - title: "Stylust"
       startTime: "20:00"
-      participantNames:
+      contributorNames:
       - "Stylust"
     - title: "Ondamike"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Ondamike"
     - title: "Subvert w/ Armanni Reign"
       startTime: "22:00"
-      participantNames:
+      contributorNames:
       - "Subvert w/ Armanni Reign"
     - title: "Friction"
       startTime: "23:00"
-      participantNames:
+      contributorNames:
       - "Friction"
     - title: "Excision"
       startTime: "00:30"
-      participantNames:
+      contributorNames:
       - "Excision"
     - title: "Dion Timmer"
       startTime: "02:00"
-      participantNames:
+      contributorNames:
       - "Dion Timmer"
     - title: "Ahee"
       startTime: "03:00"
-      participantNames:
+      contributorNames:
       - "Ahee"
     - title: "Buddy & The Buffalo"
       startTime: "04:00"
       endTime: "05:00"
-      participantNames:
+      contributorNames:
       - "Buddy & The Buffalo"
 
   Secret Garden:
     - title: "Church of Central Raving"
       startTime: "14:00"
-      participantNames:
+      contributorNames:
       - "Church of Central Raving"
     - title: "Fly with Me Acro Yoga"
       startTime: "15:30"
-      participantNames:
+      contributorNames:
       - "John Early & Brenna Bote"
     - title: "Music, Healing, & The History of Dance Culture"
       startTime: "17:00"
       endTime: "18:30"
-      participantNames:
+      contributorNames:
       - "Music, Healing, & The History of Dance Culture"
     - title: "Baby Lemonade"
       startTime: "19:30"
-      participantNames:
+      contributorNames:
       - "Baby Lemonade"
     - title: "Lil Bones"
       startTime: "21:00"
-      participantNames:
+      contributorNames:
       - "Lil Bones"
     - title: "Melo.Nade"
       startTime: "22:30"
-      participantNames:
+      contributorNames:
       - "Melo.Nade"
     - title: "Wils"
       startTime: "00:00"
-      participantNames:
+      contributorNames:
       - "Wils"
     - title: "El Toro"
       startTime: "01:30"
-      participantNames:
+      contributorNames:
       - "El Toro"
     - title: "Gabby Haze"
       startTime: "03:00"
       endTime: "04:30"
-      participantNames:
+      contributorNames:
       - "Gabby Haze"
