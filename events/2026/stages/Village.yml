@@ -1,0 +1,14 @@
+name: Village
+color: 8616370
+sortIndex: 5
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2Fstage_logo_village.png?alt=media&token=257453e1-04a1-40f5-af5f-5017a874a7f7
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen
+- source:
+    url: https://cdn.prod.website-files.com/66c64e4c1a350a3cb9ed2207/66c64e4c1a350a3cb9ed242e_Shambhala%2520Music%2520Festival%2520Village%2520Stage%2520-%2520Don%2520Idio-p-1600.webp
+  role: hero
+  renderKind: fullImage
+  materializationPolicy: prefetchOnOpen
